@@ -1,0 +1,385 @@
+/* =====================
+   SmartCart-Web UI Theme
+   Refined v2.5 — Clean, Modern, and Branded
+   ===================== */
+:root {
+  --white: #ffffff;
+  --black: #0b0b0c;
+  --muted: #50545c;
+  --blue: #1f77ff;
+  --red: #e53935;
+  --card: #ffffff;
+  --border: #e6e6e6;
+  --shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+
+/* =====================
+   Background & Global
+   ===================== */
+html, body, [data-testid="stAppViewContainer"] {
+  background-color: var(--white) !important;
+  color: var(--black) !important;
+  font-family: "Inter", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  color: var(--black);
+}
+
+hr.rule {
+  border: none;
+  border-top: 2px solid var(--border);
+  margin: 1rem 0;
+}
+
+/* =====================
+   Sidebar
+   ===================== */
+section[data-testid="stSidebar"] {
+  background: linear-gradient(180deg, #ffffff 0%, #f9f9ff 100%) !important;
+  color: var(--black) !important;
+  border-right: 1px solid var(--border) !important;
+  box-shadow: 2px 0 6px rgba(0,0,0,0.05);
+}
+
+section[data-testid="stSidebar"] * {
+  color: var(--black) !important;
+}
+
+/* Active sidebar button */
+section[data-testid="stSidebar"] button[aria-pressed="true"] {
+  background: #f1f5ff !important;
+  border-left: 4px solid var(--blue) !important;
+  font-weight: 700 !important;
+  color: var(--blue) !important;
+}
+
+/* Sidebar brand */
+.brand-side {
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: 0.4px;
+  margin: 6px 0 14px 2px;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.05);
+}
+
+.brand-blue { color: var(--blue); }
+.brand-red  { color: var(--red); }
+
+/* =====================
+   Branding & Headings
+   ===================== */
+.brand-center {
+  text-align: center;
+  margin: 10px 0 16px;
+  font-weight: 900;
+  letter-spacing: 0.5px;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.05);
+}
+
+.brand-center .brand-blue { color: var(--blue); }
+.brand-center .brand-red  { color: var(--red); }
+
+.page-h2 {
+  font-size: 30px;
+  font-weight: 900;
+  letter-spacing: -0.3px;
+  background: linear-gradient(90deg, var(--blue), var(--red));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 4px 0 12px;
+  text-align: center !important;
+}
+
+.page-h3 {
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--black);
+  margin-top: 10px;
+  text-align: center;
+}
+
+.page-h4 {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--black);
+}
+
+/* =====================
+   Metrics Styling
+   ===================== */
+[data-testid="stMetricValue"] {
+  font-weight: 800 !important;
+  font-size: 30px !important;
+  color: var(--blue) !important;
+}
+
+[data-testid="stMetricLabel"] {
+  color: var(--muted) !important;
+  font-weight: 600 !important;
+  text-transform: uppercase;
+}
+
+/* =====================
+   Inputs / Multiselect
+   ===================== */
+.stTextInput > div > div,
+.stMultiSelect > div > div,
+.stSelectbox > div > div,
+.stNumberInput > div > div,
+.stDateInput > div > div {
+  background: #fafafa !important;
+  color: var(--black) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 10px !important;
+  box-shadow: var(--shadow) !important;
+}
+
+.stMultiSelect div[data-baseweb="tag"] {
+  background: #f1f5ff !important;
+  border: 1px solid var(--blue) !important;
+  color: var(--blue) !important;
+  border-radius: 8px !important;
+  font-weight: 600 !important;
+}
+
+div[role="listbox"], ul[role="listbox"] {
+  background: #ffffff !important;
+  color: #000000 !important;
+  border: 1px solid var(--border) !important;
+  box-shadow: 0 12px 24px rgba(0,0,0,0.10) !important;
+  border-radius: 10px !important;
+}
+
+/* =====================
+   Buttons
+   ===================== */
+.stButton button {
+  background: #ffffff !important;
+  color: var(--black) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 10px !important;
+  box-shadow: var(--shadow) !important;
+  transition: all 0.25s ease-in-out;
+  font-weight: 600 !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+
+.stButton button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  border-color: var(--blue) !important;
+  color: var(--blue) !important;
+}
+
+/* =====================
+   Badges
+   ===================== */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 12px;
+  margin: 4px 8px 8px 0;
+  background: #fff;
+  color: var(--black);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+  font-weight: 600;
+}
+
+/* =====================
+   Recommendation Cards
+   ===================== */
+.reco-card {
+  position: relative;
+  background: var(--card);
+  color: var(--black);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  padding: 18px 16px 20px;
+  min-height: 150px;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.reco-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.1);
+}
+
+/* Rank circle */
+.reco-rank {
+  position: absolute;
+  top: -14px;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 42px;
+  width: 42px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 16px;
+  color: #000;
+  background: #fff;
+  border: 3px solid var(--border);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  z-index: 10;
+}
+
+/* Rank colors */
+.reco-rank-1 {
+  background: linear-gradient(135deg, #ffec99, #e6b800);
+  box-shadow: 0 0 12px #ffeb3b80;
+}
+.reco-rank-2 {
+  background: linear-gradient(135deg, #dee2e6, #9aa0a6);
+  box-shadow: 0 0 12px #b0bec580;
+}
+.reco-rank-3 {
+  background: linear-gradient(135deg, #ffd8a8, #e07a1f);
+  box-shadow: 0 0 12px #ff980080;
+}
+
+.reco-title {
+  font-size: 18px;
+  font-weight: 800;
+  margin: 20px 0 6px;
+  text-align: center;
+  color: var(--black);
+}
+
+.reco-desc {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--muted);
+  text-align: center;
+  margin-top: 4px;
+}
+
+/* =====================
+   Team Section
+   ===================== */
+.team-container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.team-card {
+  width: 220px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  padding: 16px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.team-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.1);
+}
+
+.team-photo {
+  width: 100%;
+  height: 220px;
+  border-radius: 10px;
+  object-fit: cover;
+  margin-bottom: 0.6rem;
+}
+
+.team-placeholder {
+  width: 100%;
+  height: 220px;
+  background: #f2f2f2;
+  color: #888;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+  margin-bottom: 0.6rem;
+}
+
+/* =====================
+   Quick Steps Section
+   ===================== */
+.quick-steps {
+  background: #f9faff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px 22px;
+  margin-top: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.quick-steps h3 {
+  margin-top: 0;
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--blue);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  letter-spacing: 0.2px;
+}
+
+.quick-steps ol {
+  margin: 10px 0 0 25px;
+  padding: 0;
+}
+
+.quick-steps li {
+  color: var(--black);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* =====================
+   Code Highlighting
+   ===================== */
+p code {
+  background: #f4f4f4 !important;
+  color: #111 !important;
+  border-radius: 5px;
+  padding: 2px 6px;
+  font-size: 14px;
+}
+
+/* =====================
+   DataFrame/Table fix
+   ===================== */
+.block-container, .stDataFrame, .stTable, .element-container {
+  color: var(--black) !important;
+  background: transparent !important;
+}
+/* =====================
+   Fix: Hide top Streamlit black header bar
+   ===================== */
+[data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stDecoration"] {
+  display: none !important;
+}
+
+/* =====================
+   Fix: Team Cards Layout (side by side)
+   ===================== */
+.team-container, .block-container .stColumn {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+  flex-wrap: wrap;
+}

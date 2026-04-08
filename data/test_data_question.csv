@@ -1,0 +1,1001 @@
+CUSTOMER_ID,STORE_NUMBER,ORDER_ID,ORDER_CHANNEL_NAME,ORDER_SUBCHANNEL_NAME,ORDER_OCCASION_NAME,CUSTOMER_TYPE,item1,item2,item3
+997177535,4915,9351345556,Digital,WWT,ToGo,Guest,Chicken Sub Combo,Ranch Dip - Regular,10 pc Spicy Wings Combo
+345593831,949,3595377080,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,10 pc Spicy Wings,3 pc Crispy Strips Combo
+160955031,2249,4071757785,Digital,WWT,ToGo,Guest,Large Buffalo Fries,10 pc Spicy Wings,Ranch Dip - Regular
+890671991,4154,3931766769,Digital,WWT,ToGo,Guest,6 pc Grilled Wings Combo,20 pc Grilled Wings,Fried Corn - Large
+73989021,4094,3739700809,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,20 pc Grilled Wings,Ranch Dip - Large
+965629024,2734,1160484742,Digital,WWT,ToGo,Guest,3 pc Crispy Strips Combo,Chicken Sub Combo,Chicken Sub
+554043002,430,3507129215,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Ranch Dip - Regular,Veggie Sticks Spicy
+908406400,2513,2494847505,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Add 5 Spicy Wings,8 pc Spicy Wings Combo
+680349080,820,9679605865,Digital,WWT,ToGo,Guest,Fried Corn - Regular,Chicken Sub,Ranch Dip - Regular
+123249698,949,8053157007,Digital,WWT,ToGo,Registered,20 pc Grilled Wings,Ranch Dip - Regular,Regular Buffalo Fries
+847896994,1905,1472986083,Digital,WWT,ToGo,Registered,8 pc Spicy Wings Combo,8 pc Grilled Wings Combo,Chicken Sub Combo
+92774953,820,5119671888,Digital,WWT,ToGo,Guest,15 pc Spicy Wings Combo,5 pc Crispy Strips Combo,Voodoo Fries - Regular
+496794905,400,71920208,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,6 pc Grilled Wings Combo,10 pc Spicy Wings
+432013277,820,6921313413,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,6 pc Spicy Wings Combo,Fried Corn - Large
+330944162,4750,1458039332,Digital,WWT,ToGo,Registered,30 pc Family Grilled Wings,2 pc Crispy Strips,Ranch Dip - Regular
+665934240,3302,8599974689,Digital,WWT,ToGo,Registered,Honey Mustard Dip - Regular,Large Buffalo Fries,Chicken Sub
+390525242,1905,3813306858,Digital,WWT,ToGo,Guest,3 Strips Lunch,10 pc Grilled Wings,5 pc Crispy Strips Combo
+657511802,1905,6103196605,Digital,WWT,ToGo,Registered,Add 5 Grilled Wings,8 pc Grilled Wings Combo,20pc Spicy Feast Deal
+488888638,4391,1733472163,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,10 pc Spicy Wings,Ranch Dip - Regular
+890212956,2249,9115730530,Digital,WWT,Delivery,Registered,Chicken Sub,Ranch Dip - Regular,10 pc Grilled Wings Combo
+285598610,4970,6675277727,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Ranch Dip - Large,10 pc Grilled Wings
+948060334,1905,786744543,Digital,WWT,Delivery,Guest,Honey Mustard Dip - Regular,20 pc Grilled Wings,Cheese Fries - Large
+560251967,4391,3897845188,Digital,WWT,Delivery,Guest,20pc Spicy Feast Deal,Ranch Dip - Regular,2 pc Crispy Strips
+985597830,820,4587042437,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,20 Oz Soda,Ranch Dip - Regular
+890080832,801,3772126021,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Ranch Dip - Regular,Chicken Sub Combo
+475221027,2315,9876633715,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,6 pc Mixed Wings Combo,8 pc Grilled Wings Combo
+322821945,4391,5581851889,Digital,WWT,ToGo,Registered,Voodoo Fries - Regular,Ranch Dip - Regular,Chicken Sub
+577481561,820,2603279335,Digital,WWT,ToGo,Guest,4 pc Crispy Strips,15 pc Grilled Wings,Fried Corn - Regular
+27439257,2315,6369834776,Digital,WWT,ToGo,Registered,Fried Corn - Large,8 pc Spicy Wings Combo,5 pc Crispy Strips Combo
+593885644,4154,8063821668,Digital,WWT,ToGo,Registered,15 pc Mixed Wings Combo,Triple Chocolate Cake,Chicken Sub
+354914217,3989,2931287031,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,Add 5 Spicy Wings,10 pc Spicy Wings
+798880002,949,5434557025,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,8 pc Grilled Wings Combo,7 pc Crispy Strips
+647112527,4750,8268916448,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,50 pc Grilled Wings,Ranch Dip - Regular
+607843353,1161,8140769629,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,10 pc Mixed Wings,Regular Buffalo Fries
+370391246,2513,3474583684,Digital,WWT,ToGo,Registered,Cheese Fries - Large,20 pc Mixed Wings,Fried Corn - Large
+303385308,1161,3461378541,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,Ranch Dip - Regular,Regular Buffalo Fries
+240482090,1905,8619245253,Digital,WWT,ToGo,Guest,Ranch Dip - Large,10 pc Spicy Wings,Fried Corn - Large
+479278166,1905,9425701393,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,3 pc Crispy Strips Combo,Ranch Dip - Regular
+481060039,2513,9376327890,Digital,WWT,ToGo,Registered,32 Oz Soda,20pc Spicy Feast Deal,20 Oz Soda
+792223703,4750,4182647480,Digital,WWT,ToGo,Guest,Ranch Dip - Large,Add 5 Grilled Wings,15 pc Grilled Wings
+197588117,3989,4003611924,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,Add 5 Spicy Wings,Ranch Dip - Regular
+810719895,1754,9664258299,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Ranch Dip - Large,Voodoo Fries - Large
+424704673,4595,6513020303,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,20pc Spicy Feast Deal,20 Oz Soda
+898392104,2315,3038848982,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,2 pc Crispy Strips,Large Buffalo Fries
+999339497,2513,8376685289,Digital,WWT,ToGo,Registered,Chicken Sub Combo,Blue Cheese Dip - Regular,Veggie Sticks Spicy
+671933285,1249,5557489897,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,2 pc Crispy Strips,10 pc Grilled Wings
+483400502,4595,5074642260,Digital,WWT,ToGo,Registered,10 pc Mixed Wings Combo,15 pc Grilled Wings,Ranch Dip - Regular
+556772768,4391,8463957236,Digital,WWT,Delivery,Registered,2 pc Crispy Strips,32 Oz Soda,10 pc Spicy Wings Combo
+914158493,4915,8529031849,Digital,WWT,ToGo,Registered,Large Buffalo Fries,15 pc Crispy Strips,Carrot Sticks
+24561343,2786,2360269841,Digital,WWT,Delivery,Guest,Ranch Dip - Regular,Chicken Sub,Large Buffalo Fries
+271491431,1390,6957515655,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Regular Buffalo Fries,6 pc Grilled Wings Combo
+766490388,4915,560924059,Digital,WWT,ToGo,Guest,10 pc Spicy Wings,Regular Buffalo Fries,Fried Corn - Large
+740886021,4065,7557215476,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,Ranch Dip - Regular,3 pc Crispy Strips Combo
+806107795,1754,7576879386,Digital,WWT,ToGo,Registered,Chicken Sub,Chicken Sub Combo,10 pc Spicy Wings
+844564898,801,2024803542,Digital,WWT,ToGo,Registered,6 pc Strips Meal for 2,5 pc Crispy Strips Combo,Ranch Dip - Large
+903058196,822,958258271,Digital,WWT,ToGo,Registered,20 Oz Soda,Regular Buffalo Fries,Chicken Sub Combo
+798400642,1390,1115322441,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Blue Cheese Dip - Regular,10 pc Spicy Wings
+521638597,1731,8289961904,Digital,WWT,ToGo,Registered,Ranch Dip - Large,20 pc Grilled Wings,Flavor Platter
+209881945,1765,8903503849,Digital,WWT,ToGo,Registered,Carrot Sticks,30 pc Spicy Wings,Veggie Sticks
+313686490,266,4696392549,Digital,WWT,Delivery,Registered,10 pc Spicy Wings,Regular Buffalo Fries,8 pc Grilled Wings Combo
+92570317,3989,8201462153,Digital,WWT,ToGo,Registered,Add 5 Grilled Wings,Large Buffalo Fries,8 pc Grilled Wings Combo
+942411970,3302,1106412992,Digital,WWT,ToGo,Registered,Fried Corn - Large,2 pc Crispy Strips,Flavor Platter
+752479101,2315,6017584435,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,10 pc Grilled Wings Combo,Fried Corn - Large
+659566615,2517,7561380164,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,30 pc Family Grilled Wings,15 pc Spicy Wings
+552054707,2734,8313745366,Digital,WWT,Delivery,Registered,10 pc Spicy Wings,4 pc Crispy Strips,Ranch Dip - Regular
+641732217,801,7412481937,Digital,WWT,Delivery,Guest,20 pc Mixed Wings,Voodoo Fries - Regular,Regular Buffalo Fries
+782687122,4094,9404853975,Digital,WWT,ToGo,Guest,20pc Spicy Feast Deal,Large Buffalo Fries,Ranch Dip - Regular
+711176991,4391,5843303173,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Fried Corn - Large,Ranch Dip - Large
+113063488,4750,5634013434,Digital,WWT,ToGo,Guest,Large Veggie Sticks Spicy,50 pc Mixed Wings,Ranch Dip - Large
+148437727,3989,3900783085,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Ranch Dip - Regular,20 Oz Soda
+517545136,1070,3607320592,Digital,WWT,Delivery,Registered,Fried Corn - Large,Ranch Dip - Large,40 pc Family Mixed Wings
+251340705,2513,1580421216,Digital,WWT,ToGo,Registered,5 pc Crispy Strips Combo,Cheese Fries - Large,15 pc Spicy Wings
+830737958,820,3428541028,Digital,WWT,ToGo,Guest,Veggie Sticks Spicy,10 pc Grilled Wings Combo,Fried Corn - Regular
+479488590,4595,2093272018,Digital,WWT,ToGo,Registered,Cheese Fries - Large,Ranch Dip - Regular,15 pc Grilled Wings
+104316436,4391,5140584474,Digital,WWT,ToGo,Registered,15 pc Grilled Wings Combo,7 pc Crispy Strips,Fried Corn - Large
+796657195,4595,9182095124,Digital,WWT,ToGo,Registered,Large Veggie Sticks Spicy,10 pc Grilled Wings Combo,Ranch Dip - Regular
+928737683,2513,9008976760,Digital,WWT,ToGo,Registered,Flavor Platter,2 pc Crispy Strips,Regular Buffalo Fries
+888121558,820,2610885654,Digital,WWT,Delivery,Registered,Ranch Dip - Large,20pc Spicy Feast Deal,Large Veggie Sticks Spicy
+539034370,3989,6556987230,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,6 pc Grilled Wings Combo,3 pc Crispy Strips Combo
+644139747,400,6095674121,Digital,WWT,ToGo,Guest,20 Oz Soda,20pc Spicy Feast Deal,Cheese Dip - Medium
+828846329,2156,8239324284,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,10 pc Spicy Wings,4 pc Crispy Strips
+882876751,4094,2235489605,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,Chicken Sub Combo,Chicken Sub
+800353976,1070,420263296,Digital,WWT,Delivery,Guest,6 pc Grilled Wings Combo,Regular Buffalo Fries,20 pc Grilled Wings
+950142020,4065,2853107028,Digital,WWT,ToGo,Guest,15 pc Grilled Wings Combo,10 pc Spicy Wings,Regular Buffalo Fries
+167486393,4065,2882485535,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,Chicken Sub,Ranch Dip - Regular
+997157436,1247,9388852439,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,Voodoo Fries - Large,Ranch Dip - Regular
+486934836,400,3663281732,Digital,WWT,ToGo,Guest,24 pc Family Grilled Wings,Add 5 Spicy Wings,Ranch Dip - Regular
+866406991,857,3205313571,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,10 pc Grilled Wings Combo,Ranch Dip - Regular
+804113173,2517,8488904198,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,15 pc Grilled Wings,7 pc Crispy Strips
+956667181,1731,8833682485,Digital,WWT,ToGo,Guest,Flavor Platter,8 pc Spicy Wings Combo,Ranch Dip - Large
+201904809,2517,507309741,Digital,WWT,ToGo,Registered,5 pc Crispy Strips Combo,8 pc Spicy Wings Combo,Carrot Sticks
+805499454,801,1420458152,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Ranch Dip - Regular,10 pc Grilled Wings Combo
+75389782,801,1400514220,Digital,WWT,ToGo,Registered,Ranch Dip - Large,10 pc Grilled Wings,Large Buffalo Fries
+110659103,3989,8005800972,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,2 pc Crispy Strips,8 pc Grilled Wings Combo
+801915049,2513,9195418958,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,8 pc Mixed Wings Combo,Chicken Sub Combo
+807524346,949,7616149255,Digital,WWT,Delivery,Registered,Chicken Sub Combo,10 pc Grilled Wings Combo,Ranch Dip - Regular
+652586081,2513,4743781689,Digital,WWT,ToGo,Guest,Fried Corn - Regular,10 pc Spicy Wings,Ranch Dip - Regular
+851583581,1731,5459634450,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,30 pc Spicy Wings,Cheese Fries - Regular
+628026677,949,9761469695,Digital,WWT,ToGo,Registered,30 pc Grilled Wings,Ranch Dip - Large,Large Buffalo Fries
+68440506,4915,8026870762,Digital,WWT,Delivery,Registered,15 pc Spicy Wings Combo,Regular Buffalo Fries,Ranch Dip - Regular
+628387996,4065,5519604346,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,2 pc Crispy Strips,10 pc Grilled Wings Combo
+754283787,4750,3443149720,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,Ranch Dip - Regular,Large Buffalo Fries
+567878398,1765,5695784239,Digital,WWT,ToGo,Guest,20pc Spicy Feast Deal,Ranch Dip - Regular,Veggie Sticks Spicy
+667834511,400,6539979064,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,6 pc Grilled Wings Combo,Ranch Dip - Regular
+459429066,857,2100548803,Digital,WWT,ToGo,Registered,15 pc Grilled Wings,Ranch Dip - Large,10 pc Grilled Wings Combo
+684058871,1249,9419859109,Digital,WWT,Delivery,Registered,Large Fruit Punch,15 pc Crispy Strips,5 pc Crispy Strips Combo
+46262059,820,7269411598,Digital,WWT,Delivery,Registered,Regular Buffalo Fries,20 Oz Soda,7 pc Crispy Strips
+398483308,4915,1617158734,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Fried Corn - Regular,Ranch Dip - Large
+344143914,1070,7560129921,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Grilled Wings Combo,5 pc Crispy Strips Combo
+627164221,1249,3704712191,Digital,WWT,Delivery,Registered,30 pc Family Grilled Wings,Fried Corn - Large,2 pc Crispy Strips
+365857463,2517,4136734912,Digital,WWT,ToGo,Registered,Cheese Dip - Regular,3 pc Crispy Strips Combo,Regular Buffalo Fries
+5783045,801,2250143111,Digital,WWT,ToGo,Registered,Fried Corn - Regular,10 pc Spicy Wings,20 Oz Soda
+346536705,4750,3302991162,Digital,WWT,Delivery,Registered,Fried Corn - Large,30 pc Grilled Wings,Ranch Dip - Regular
+303422953,801,7367995107,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Fried Corn - Regular,Ranch Dip - Regular
+651161181,1249,6251705624,Digital,WWT,ToGo,Registered,8 pc Spicy Wings Combo,Add 5 Spicy Wings,Chicken Sub Combo
+530147930,1913,5055546718,Digital,WWT,Delivery,Guest,20 pc Grilled Wings,Chicken Sub,4 pc Crispy Strips
+910189992,3989,5674301849,Digital,WWT,ToGo,Guest,7 pc Crispy Strips,Regular Buffalo Fries,Triple Chocolate Cake
+245261230,2156,6235808560,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,Cheese Dip - Large,8 pc Spicy Wings Combo
+4416881,4094,3064527094,Digital,WWT,ToGo,Registered,30 pc Family Grilled Wings,Add 5 Spicy Wings,Ranch Dip - Regular
+371289572,4970,692173050,Digital,WWT,Delivery,Guest,8 pc Spicy Wings Combo,Ranch Dip - Regular,10 pc Spicy Wings Combo
+269856603,3302,432530606,Digital,WWT,ToGo,Registered,Chicken Sub,Add 5 Grilled Wings,10 pc Grilled Wings Combo
+879683043,1070,6605021198,Digital,WWT,ToGo,Guest,Honey Mustard Dip - Regular,Fried Corn - Regular,3 pc Crispy Strips Combo
+315958232,801,1474861848,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,10 pc Spicy Wings,Ranch Dip - Regular
+158427631,4970,6235540934,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,5 pc Crispy Strips Combo,15 pc Spicy Wings Combo
+310547085,4915,1084179693,Digital,WWT,ToGo,Guest,Ranch Dip - Large,Large Veggie Sticks Spicy,10 pc Spicy Wings
+966062888,1070,3083081458,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,7 pc Crispy Strips,Ranch Dip - Large
+240603386,2315,2471266447,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,Ranch Dip - Regular,6 pc Spicy Wings Combo
+717793967,1905,9277376427,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,25 pc Game Day Pack,10 pc Spicy Wings
+722730504,1731,3822095030,Digital,WWT,ToGo,Registered,8 pc Spicy Wings Combo,8 pc Grilled Wings Combo,Ranch Dip - Regular
+399374791,1161,8635267939,Digital,WWT,ToGo,Guest,Large Buffalo Fries,Large Veggie Sticks Spicy,15 pc Grilled Wings
+372985482,4970,9975385466,Digital,WWT,Delivery,Guest,Ranch Dip - Regular,20 Oz Soda,10 pc Grilled Wings
+875106489,1161,6002902756,Digital,WWT,ToGo,Guest,Large Buffalo Fries,Fried Corn - Regular,Flavor Platter
+42464808,1731,9598626923,Digital,WWT,ToGo,Guest,15 pc Grilled Wings,Ranch Dip - Regular,20pc Spicy Feast Deal
+179015818,801,2271437287,Digital,WWT,Delivery,Registered,Fried Corn - Regular,Ranch Dip - Regular,2 pc Crispy Strips
+905714889,4094,9127618166,Digital,WWT,ToGo,Guest,6 pc Grilled Wings Combo,10 pc Spicy Wings Combo,10 pc Grilled Wings
+47616816,2513,5498030987,Digital,WWT,ToGo,Guest,10 pc Grilled Wings Combo,8 pc Spicy Wings Combo,Ranch Dip - Regular
+662138292,1419,4893379515,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,Ranch Dip - Large,10 pc Spicy Wings Combo
+693103028,2513,4497037762,Digital,WWT,ToGo,Guest,6 pc Grilled Wings Combo,Regular Buffalo Fries,Ranch Dip - Regular
+329910998,4750,4061743760,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Fried Corn - Regular,15 pc Grilled Wings
+16208992,1913,9453738106,Digital,WWT,Delivery,Registered,7 pc Crispy Strips,Ranch Dip - Large,Large Buffalo Fries
+165915269,1765,8653850514,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Fried Corn - Large,15 pc Grilled Wings Combo
+122929043,4391,6262453914,Digital,WWT,ToGo,Guest,Regular Buffalo Fries,20pc Spicy Feast Deal,Blue Cheese Dip - Regular
+316925508,949,1028695542,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,10 pc Mixed Wings Combo,7 pc Crispy Strips
+689146623,430,9052570299,Digital,WWT,ToGo,Registered,Ranch Dip - Large,10 pc Spicy Wings Combo,Regular Buffalo Fries
+302831416,1070,4773468386,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Large Buffalo Fries,Fried Corn - Regular
+248670206,2734,6788771349,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,2 pc Crispy Strips,Ranch Dip - Regular
+902700726,2249,9044746507,Digital,WWT,Delivery,Guest,20 Oz Soda,30 pc Family Mixed Wings,Triple Chocolate Cake
+868212216,1161,2016464487,Digital,WWT,ToGo,Registered,30 pc Grilled Wings,Large Buffalo Fries,Ranch Dip - Regular
+695304861,2156,7363404487,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Ranch Dip - Regular,Add 5 Spicy Wings
+246430958,2156,9515862942,Digital,WWT,ToGo,Registered,20 Oz Soda,Fried Corn - Large,25 pc Game Day Pack
+856409489,2517,292211849,Digital,WWT,ToGo,Registered,Chicken Sub,Large Fruit Punch,20pc Spicy Feast Deal
+72343235,1249,577424637,Digital,WWT,ToGo,Registered,Ranch Dip - Large,15 pc Grilled Wings,20pc Spicy Feast Deal
+196116047,801,1891310798,Digital,WWT,ToGo,Registered,Large Buffalo Fries,10 pc Grilled Wings,Ranch Dip - Regular
+296843243,801,4067339101,Digital,WWT,ToGo,Guest,2 pc Crispy Strips,15 pc Grilled Wings,Voodoo Fries - Regular
+423897805,4915,7233925631,Digital,WWT,ToGo,Registered,Chicken Sub Combo,Voodoo Fries - Regular,Ranch Dip - Regular
+914626260,4915,3311888453,Digital,WWT,ToGo,Guest,10 pc Spicy Wings,Large Buffalo Fries,10 pc Grilled Wings
+260131777,4970,7128291259,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,2 pc Crispy Strips,Fried Corn - Regular
+802382779,3302,4242501496,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,Ranch Dip - Regular,10 pc Spicy Wings Combo
+626605150,4750,3252867332,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,10 pc Spicy Wings,Cheese Fries - Regular
+726148845,1390,9492275642,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,Ranch Dip - Regular,Large Buffalo Fries
+698295477,4094,7332762886,Digital,WWT,ToGo,Registered,Large Buffalo Fries,30 pc Family Mixed Wings,Blue Cheese Dip - Regular
+461591384,3989,1791693774,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,Chicken Sub Combo,Dipping Sauce
+886259241,2315,5549621782,Digital,WWT,ToGo,Guest,10 pc Spicy Wings Combo,Regular Buffalo Fries,Ranch Dip - Regular
+108166463,430,7253771566,Digital,WWT,ToGo,Guest,2 pc Crispy Strips,Voodoo Fries - Large,10 pc Grilled Wings Combo
+348338898,4094,6488820852,Digital,WWT,ToGo,Registered,Fried Corn - Regular,Cheese Dip - Medium,6 pc Grilled Wings Combo
+388488350,1070,4662712535,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Ranch Dip - Large,15 pc Spicy Wings
+643256095,949,8282587606,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20pc Spicy Feast Deal,Large Buffalo Fries
+7775815,1754,1211569589,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Ranch Dip - Regular,20 pc Grilled Wings
+820974237,1390,5931929840,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20 pc Mixed Wings,Regular Buffalo Fries
+413508946,4750,937233417,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,10 pc Spicy Wings,Fried Corn - Regular
+989778920,400,1836342210,Digital,WWT,ToGo,eClub,2 pc Crispy Strips,6 pc Grilled Wings Combo,15 pc Mixed Wings Combo
+655805726,1161,7825139391,Digital,WWT,ToGo,Guest,10 pc Mixed Wings,6 pc Spicy Wings Combo,8 pc Spicy Wings Combo
+989891009,4094,6893279585,Digital,WWT,Delivery,Registered,30 pc Family Grilled Wings,Fried Corn - Regular,Ranch Dip - Large
+377021551,1390,4932507016,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,20 pc Grilled Wings,Ranch Dip - Regular
+170615493,3989,693268549,Digital,WWT,Delivery,Guest,Veggie Sticks Spicy,6 pc Spicy Wings Combo,10 pc Grilled Wings Combo
+324940474,2786,8403128336,Digital,WWT,ToGo,Registered,32 Oz Soda,Regular Buffalo Fries,Ranch Dip - Regular
+221008314,2513,6272521896,Digital,WWT,ToGo,Registered,7 pc Crispy Strips,Ranch Dip - Regular,Regular Buffalo Fries
+629815746,1249,7055108210,Digital,WWT,ToGo,Registered,25 pc Game Day Pack,10 pc Spicy Wings,Ranch Dip - Regular
+332232963,1905,7658098544,Digital,WWT,ToGo,Guest,10 pc Spicy Wings Combo,Triple Chocolate Cake,15 pc Grilled Wings Combo
+243482130,820,3244141341,Digital,WWT,Delivery,Registered,10 pc Grilled Wings Combo,Ranch Dip - Regular,10 pc Grilled Wings
+808428514,4065,8919162423,Digital,WWT,ToGo,Registered,Triple Chocolate Cake,8 pc Grilled Wings Combo,Regular Buffalo Fries
+969554031,4094,1228896755,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,3 pc Crispy Strips Combo,2 pc Crispy Strips
+421528859,4094,1388721424,Digital,WWT,Delivery,Registered,2 pc Crispy Strips,Ranch Dip - Regular,Voodoo Fries - Regular
+39554714,2315,8049334637,Digital,WWT,ToGo,Registered,Large Celery Sticks,2 pc Crispy Strips,20pc Spicy Feast Deal
+795166073,1070,668877122,Digital,WWT,ToGo,Registered,10 pc Spicy Wings Combo,Chicken Sub,Cheese Dip - Medium
+438600504,1161,1832380165,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,Add 5 Spicy Wings,20 pc Spicy Wings
+719437360,2513,7454286331,Digital,WWT,ToGo,Registered,20 pc Crispy Strips,Ranch Dip - Regular,Add 5 Spicy Wings
+362509592,1765,8820300730,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Fried Corn - Large,10 pc Grilled Wings
+296304012,4595,3534967544,Digital,WWT,ToGo,Registered,Chicken Sub Combo,Chicken Sub,Ranch Dip - Regular
+521152500,2513,4099111737,Digital,WWT,ToGo,Guest,25 pc Game Day Pack,Add 5 Spicy Wings,Regular Buffalo Fries
+682434190,1390,5692983309,Digital,WWT,ToGo,Registered,20 Oz Soda,Ranch Dip - Regular,30 pc Grilled Wings
+758373218,2513,2551508316,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Regular Buffalo Fries,Ranch Dip - Large
+791424763,4750,6401485824,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,Flavor Platter,20 Oz Soda
+116528530,801,8377653183,Digital,WWT,ToGo,Registered,8 pc Mixed Wings Combo,Ranch Dip - Regular,8 pc Spicy Wings Combo
+967741527,1161,2593391980,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,6 pc Spicy Wings Combo,20 Oz Soda
+155880420,4154,4662155831,Digital,WWT,Delivery,Guest,2 pc Crispy Strips,Fried Corn - Regular,10 pc Grilled Wings Combo
+243563824,4065,3504881894,Digital,WWT,ToGo,Guest,Add 5 Spicy Wings,10 pc Grilled Wings Combo,Ranch Dip - Large
+169050503,1070,7921565680,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,8 pc Grilled Wings Combo,3 pc Crispy Strips Combo
+784518972,1070,5313220129,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,10 pc Grilled Wings Combo,8 pc Grilled Wings Combo
+691177024,2315,4676091145,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,Ranch Dip - Large,15 pc Spicy Wings
+979331115,4541,9283892057,Digital,WWT,ToGo,Guest,3 pc Crispy Strips Combo,20pc Spicy Feast Deal,6 pc Spicy Wings Combo
+280724193,3989,2518508022,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,Fried Corn - Large,Cheese Fries - Large
+595884432,949,4747845722,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Fried Corn - Regular,32 Oz Soda
+91044568,1249,4714767517,Digital,WWT,ToGo,Guest,Add 5 Spicy Wings,6 pc Grilled Wings Combo,Dipping Sauce
+213867214,4750,2702547901,Digital,WWT,ToGo,Guest,Veggie Sticks,Dipping Sauce,10 pc Grilled Wings
+115984953,2517,2481358010,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Ranch Dip - Regular,Chicken Sub
+176228300,1249,9823882308,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,10 pc Grilled Wings Combo,Regular Buffalo Fries
+284326459,4750,3219246819,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Add 5 Grilled Wings,20 pc Grilled Wings
+397009271,3989,5610733001,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,10 pc Grilled Wings Combo,10 pc Grilled Wings
+313902647,4915,6359009799,Digital,WWT,ToGo,Registered,Fried Corn - Regular,20pc Spicy Feast Deal,Ranch Dip - Regular
+250476484,4154,5584934742,Digital,WWT,Delivery,Registered,20 Oz Soda,Cheese Dip - Regular,8 pc Grilled Wings Combo
+259471811,4595,9958274172,Digital,WWT,ToGo,Guest,Fried Corn - Regular,Ranch Dip - Regular,Chicken Sub Combo
+630767485,801,1700879090,Digital,WWT,ToGo,Registered,8 pc Spicy Wings Combo,Ranch Dip - Regular,Triple Chocolate Cake
+222757298,820,423325875,Digital,WWT,ToGo,Guest,Fried Corn - Regular,Veggie Sticks Spicy,Ranch Dip - Regular
+852429541,430,2700256303,Digital,WWT,ToGo,Guest,2 pc Crispy Strips,Ranch Dip - Regular,Regular Buffalo Fries
+740822945,822,7172483544,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,Blue Cheese Dip - Regular,10 pc Spicy Wings Combo
+332497361,2513,2771731403,Digital,WWT,Delivery,Guest,32 Oz Soda,2 pc Crispy Strips,Add 5 Spicy Wings
+73510650,4065,1884402430,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,8 pc Spicy Wings Combo,20 Oz Soda
+577211475,400,4464349661,Digital,WWT,Delivery,Registered,20pc Spicy Feast Deal,32 Oz Soda,Ranch Dip - Regular
+456896960,4094,9020764788,Digital,WWT,ToGo,Registered,Fried Corn - Regular,Ranch Dip - Regular,30 pc Grilled Wings
+1258490,820,897197018,Digital,WWT,ToGo,Registered,15 pc Grilled Wings,20pc Spicy Feast Deal,Ranch Dip - Regular
+761480509,4094,9195917308,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Fried Corn - Regular,Veggie Sticks
+571454523,2786,9753500807,Digital,WWT,ToGo,Registered,Ranch Dip - Large,2 pc Crispy Strips,20pc Spicy Feast Deal
+499615877,1731,1074003675,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Fried Corn - Regular,7 pc Crispy Strips
+301776513,400,2181355716,Digital,WWT,ToGo,Registered,20 pc Grilled Wings,Veggie Sticks,Ranch Dip - Regular
+384800430,2513,8024017350,Digital,WWT,ToGo,Registered,Ranch Dip - Large,30 pc Family Grilled Wings,Fried Corn - Regular
+901956379,1161,575013192,Digital,WWT,ToGo,Guest,Regular Buffalo Fries,15 pc Grilled Wings,7 pc Crispy Strips
+622349757,820,9480777569,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,8 pc Grilled Wings Combo,Fried Corn - Regular
+994215503,857,8490256110,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,2 pc Crispy Strips,Ranch Dip - Regular
+942408609,3989,9316714148,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,2 pc Crispy Strips,Chicken Sub
+475626592,1913,3735258950,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Ranch Dip - Regular,10 pc Spicy Wings
+352894347,2513,4118512959,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,Flavor Platter,20 Oz Soda
+357751622,4750,153301022,Digital,WWT,ToGo,Guest,6 pc Spicy Wings Combo,Chicken Sub,Fried Corn - Regular
+452279459,1765,5439543092,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Regular Buffalo Fries,15 pc Grilled Wings
+64239408,1913,1234599757,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,32 Oz Soda,10 pc Grilled Wings
+146781377,4970,1314782296,Digital,WWT,ToGo,Registered,Blue Cheese Dip - Regular,Fried Corn - Large,30 pc Grilled Wings
+289850892,4750,7832345222,Digital,WWT,ToGo,Guest,Regular Buffalo Fries,10 pc Mixed Wings,Ranch Dip - Regular
+953479794,1754,1907035917,Digital,WWT,ToGo,Registered,10 pc Spicy Wings Combo,Ranch Dip - Regular,6 pc Grilled Wings Combo
+804730893,1249,5827168935,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,10 pc Grilled Wings Combo,Fried Corn - Large
+642954205,4094,8538799610,Digital,WWT,ToGo,Registered,Chicken Sub,8 pc Spicy Wings Combo,Regular Buffalo Fries
+828120344,820,6646915661,Digital,WWT,Delivery,Guest,Ranch Dip - Regular,Regular Buffalo Fries,Bottled Water
+264767825,1249,7341287854,Digital,WWT,ToGo,Registered,Chicken Sub Combo,Ranch Dip - Regular,10 pc Grilled Wings Combo
+740863153,4750,3302178791,Digital,WWT,ToGo,Guest,Fried Corn - Regular,2 pc Crispy Strips,Ranch Dip - Regular
+391458895,4595,5895908225,Digital,WWT,Delivery,Registered,Fried Corn - Regular,10 pc Spicy Wings,10 pc Spicy Wings Combo
+93586269,1390,4249926639,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,10 pc Grilled Wings Combo,Ranch Dip - Large
+709117761,4094,1978069785,Digital,WWT,ToGo,Registered,25 pc Game Day Pack,Chicken Sub Combo,Large Veggie Sticks Spicy
+899533625,4094,6829257066,Digital,WWT,ToGo,Guest,8 pc Spicy Wings Combo,Ranch Dip - Regular,8 pc Grilled Wings Combo
+440457171,3989,7249113306,Digital,WWT,Delivery,Registered,Veggie Sticks Spicy,6 pc Grilled Wings Combo,3 pc Crispy Strips Combo
+433975390,3302,3671354189,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,6 pc Grilled Wings Combo,Large Buffalo Fries
+715546416,4970,7439102795,Digital,WWT,Delivery,Registered,24 pc Family Grilled Wings,Triple Chocolate Cake,10 pc Spicy Wings Combo
+73637672,400,6371113700,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20 Oz Soda,10 pc Spicy Wings
+271995685,1765,5494382077,Digital,WWT,Delivery,Guest,6 pc Spicy Wings Combo,Ranch Dip - Large,8 pc Spicy Wings Combo
+743731764,2156,7435447142,Digital,WWT,ToGo,Guest,30 pc Family Grilled Wings,Dipping Sauce,5 pc Crispy Strips Combo
+88222968,2513,5479754720,Digital,WWT,ToGo,Registered,Veggie Sticks,Ranch Dip - Large,Fried Corn - Large
+551777539,2786,9908029367,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Fried Corn - Large,50 pc Grilled Wings
+496128198,3989,4101133960,Digital,WWT,ToGo,Registered,Chicken Sub,10 pc Grilled Wings,8 pc Grilled Wings Combo
+72129409,1070,3015925635,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Spicy Wings,Veggie Sticks Spicy
+709637547,2517,2028788097,Digital,WWT,ToGo,Registered,Large Buffalo Fries,20 pc Grilled Wings,Regular Buffalo Fries
+310140991,1070,1264014639,Digital,WWT,ToGo,Registered,Veggie Sticks,6 pc Spicy Wings Combo,Blue Cheese Dip - Regular
+881591579,1070,989527639,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,8 pc Spicy Wings Combo,Ranch Dip - Regular
+877650838,430,5436082679,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,15 pc Spicy Wings,20 pc Grilled Wings
+827274979,4094,4826562760,Digital,WWT,ToGo,Registered,4 pc Crispy Strips,10 pc Grilled Wings Combo,Chicken Sub
+705085361,1161,5840783167,Digital,WWT,ToGo,Guest,15 pc Grilled Wings,Regular Buffalo Fries,6 pc Spicy Wings Combo
+452376502,4154,6403268830,Digital,WWT,Delivery,Registered,6 pc Mixed Wings Combo,Regular Buffalo Fries,Fried Corn - Regular
+461515640,4094,4204556378,Digital,WWT,ToGo,Guest,Large Buffalo Fries,10 pc Spicy Wings,15 pc Spicy Wings
+845598480,1765,8025974796,Digital,WWT,ToGo,Guest,2 pc Crispy Strips,Regular Buffalo Fries,15 pc Grilled Wings
+684312607,4541,3218830263,Digital,WWT,ToGo,Guest,Fried Corn - Regular,Ranch Dip - Large,10 pc Grilled Wings
+920863414,4915,1496609584,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,10 pc Grilled Wings Combo,5 pc Crispy Strips Combo
+486701855,1390,6593788546,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,6 pc Spicy Wings Combo,8 pc Grilled Wings Combo
+74190959,949,5190525485,Digital,WWT,ToGo,Guest,Chicken Sub Combo,10 pc Grilled Wings Combo,5 pc Crispy Strips Combo
+418210296,822,1693088898,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,20 pc Grilled Wings,20pc Spicy Feast Deal
+892869602,2156,4540881888,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,6 pc Spicy Wings Combo,10 pc Grilled Wings Combo
+10640175,1390,3748848573,Digital,WWT,ToGo,Guest,Add 5 Grilled Wings,20pc Spicy Feast Deal,Fried Corn - Large
+846464669,1249,140533012,Digital,WWT,ToGo,Registered,20 pc Grilled Wings,20 Oz Soda,Ranch Dip - Regular
+560095323,2513,4328729830,Digital,WWT,ToGo,Registered,4 pc Crispy Strips,Add 5 Spicy Wings,15 pc Grilled Wings
+656825175,1913,1100029045,Digital,WWT,ToGo,Guest,10 pc Mixed Wings Combo,7 pc Crispy Strips,10 pc Grilled Wings Combo
+280716757,3302,4240564164,Digital,WWT,ToGo,Registered,Voodoo Fries - Regular,20 pc Mixed Wings,Ranch Dip - Regular
+584891020,1765,3292135969,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Spicy Wings Combo,10 pc Grilled Wings Combo
+456006505,2513,5273809414,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,Ranch Dip - Large,10 pc Grilled Wings Combo
+507699123,857,4843892365,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Ranch Dip - Large,Fried Corn - Large
+952900524,2786,4475708513,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Chicken Sub Combo,6 pc Grilled Wings Combo
+951770074,1161,1891258868,Digital,WWT,ToGo,Registered,30 pc Family Grilled Wings,Ranch Dip - Large,Fried Corn - Regular
+43006300,1161,8567790320,Digital,WWT,Delivery,Registered,10 pc Grilled Wings,Add 5 Grilled Wings,10 pc Spicy Wings
+956554764,1161,555033840,Digital,WWT,ToGo,Registered,5 pc Crispy Strips Combo,20 Oz Soda,10 pc Grilled Wings
+320742479,2786,1757964799,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,Chicken Sub Combo,8 pc Grilled Wings Combo
+300095062,1161,203585826,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,Regular Buffalo Fries,20 pc Grilled Wings
+857879752,1731,4991901700,Digital,WWT,ToGo,Registered,Large Buffalo Fries,10 pc Grilled Wings Combo,20pc Spicy Feast Deal
+513474141,1905,788250617,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,8 pc Spicy Wings Combo,8 pc Mixed Wings Combo
+639092931,820,1327263363,Digital,WWT,Delivery,Registered,Triple Chocolate Cake,Veggie Sticks Spicy,8 pc Spicy Wings Combo
+180718756,2249,2199438114,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20 Oz Soda,Regular Buffalo Fries
+854159463,4541,6137645469,Digital,WWT,ToGo,Registered,Voodoo Fries - Large,4 pc Crispy Strips,5 pc Crispy Strips Combo
+159520555,801,8721610270,Digital,WWT,Delivery,Registered,Cheese Fries - Regular,10 pc Spicy Wings,Ranch Dip - Regular
+135641283,4094,6792373984,Digital,WWT,Delivery,Registered,Ranch Dip - Large,20 pc Grilled Wings,2 pc Crispy Strips
+22609897,4541,1355068589,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,Fried Corn - Regular,10 pc Grilled Wings
+15750176,1070,8787311196,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Ranch Dip - Regular,Add 5 Spicy Wings
+910873155,1161,5831553557,Digital,WWT,ToGo,Registered,Fried Corn - Regular,Ranch Dip - Regular,Regular Buffalo Fries
+268346158,4391,1728785684,Digital,WWT,ToGo,Guest,3 pc Crispy Strips Combo,Fried Corn - Regular,6 pc Spicy Wings Combo
+467898599,4750,7436158860,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,Veggie Sticks Spicy,25 pc Game Day Pack
+148829205,3989,9866060252,Digital,WWT,ToGo,Guest,Add 5 Spicy Wings,Buffalo Fries,Ranch Dip - Regular
+606485203,801,1757937877,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Large Buffalo Fries,30 pc Grilled Wings
+127612123,1419,8953892581,Digital,WWT,Delivery,Registered,Large Veggie Sticks Spicy,Ranch Dip - Large,Fried Corn - Large
+572496484,2513,9160586430,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Ranch Dip - Regular,15 pc Spicy Wings
+826400711,1390,1348916976,Digital,WWT,ToGo,Guest,Chicken Sub,2 pc Crispy Strips,30 pc Family Grilled Wings
+178244854,1161,4319071016,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Grilled Wings,20pc Spicy Feast Deal
+482214024,2315,2082860004,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,10 pc Spicy Wings,Regular Buffalo Fries
+893185287,2513,6088363846,Digital,WWT,ToGo,Guest,Ranch Dip - Large,30 pc Grilled Wings,Fried Corn - Large
+97269016,3302,6601145696,Digital,WWT,Delivery,Guest,Flavor Platter,20 pc Grilled Wings,Chicken Sub
+772901794,822,9265211153,Digital,WWT,ToGo,Registered,Carrot Sticks,10 pc Spicy Wings Combo,Ranch Dip - Regular
+581373507,1765,8354850181,Digital,WWT,ToGo,Guest,24 pc Family Grilled Wings,20 Oz Soda,32 Oz Soda
+5613489,801,9709185284,Digital,WWT,Delivery,Guest,3 pc Crispy Strips Combo,Chicken Sub,20 pc Grilled Wings
+331448524,1161,8664036462,Digital,WWT,ToGo,Registered,Veggie Sticks,Ranch Dip - Large,Fried Corn - Regular
+836575948,820,1787804796,Digital,WWT,ToGo,Guest,20pc Spicy Feast Deal,8 pc Grilled Wings Combo,10 pc Grilled Wings Combo
+760901567,1731,4169189588,Digital,WWT,ToGo,Guest,10 pc Spicy Wings Combo,8 pc Grilled Wings Combo,6 pc Grilled Wings Combo
+253600554,4595,4240555546,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20pc Spicy Feast Deal,10 pc Grilled Wings Combo
+930616334,2734,6707615211,Digital,WWT,ToGo,Registered,Blue Cheese Dip - Regular,20pc Spicy Feast Deal,2 pc Crispy Strips
+746489796,857,6121591301,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20 pc Grilled Wings,Regular Buffalo Fries
+818477912,949,9660893737,Digital,WWT,ToGo,Guest,6 pc Grilled Wings Combo,Chicken Sub Combo,Ranch Dip - Regular
+603622297,1070,3166725456,Digital,WWT,ToGo,Registered,15 pc Grilled Wings,Ranch Dip - Regular,Fried Corn - Regular
+457268741,2315,2935738403,Digital,WWT,ToGo,Registered,Cheese Fries - Large,Veggie Sticks Spicy,20pc Spicy Feast Deal
+518560140,801,7655305325,Digital,WWT,ToGo,Registered,10 pc Mixed Wings,10 pc Grilled Wings Combo,5 pc Crispy Strips Combo
+933015978,1765,5498347398,Digital,WWT,ToGo,Registered,Chicken Sub,10 pc Spicy Wings,20pc Spicy Feast Deal
+210609580,2513,7654433270,Digital,WWT,ToGo,Guest,Flavor Platter,Add 5 Spicy Wings,4 pc Crispy Strips
+921507925,1765,5618771525,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,8 pc Grilled Wings Combo,6 pc Spicy Wings Combo
+630742216,4750,8544774642,Digital,WWT,ToGo,Guest,10 pc Grilled Wings Combo,Ranch Dip - Regular,Add 5 Grilled Wings
+632598037,1913,3729893922,Digital,WWT,ToGo,Guest,10 pc Spicy Wings,Fried Corn - Regular,Blue Cheese Dip - Regular
+371208400,4595,4326009809,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,2 pc Crispy Strips,8 pc Spicy Wings Combo
+304597748,4094,2574201124,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,2 pc Crispy Strips,10 pc Mixed Wings Combo
+324559624,4065,5839346714,Digital,WWT,ToGo,Registered,30 pc Grilled Wings,Ranch Dip - Large,Regular Buffalo Fries
+783666949,1247,9405233990,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20 pc Mixed Wings,32 Oz Soda
+511962541,4065,5047246062,Digital,WWT,ToGo,Guest,32 Oz Soda,10 pc Mixed Wings,Ranch Dip - Regular
+913781453,2513,9741900531,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,Voodoo Fries - Regular,4 pc Crispy Strips
+433588764,2513,900698321,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Ranch Dip - Large,Large Buffalo Fries
+300355165,2513,9602315572,Digital,WWT,ToGo,Guest,15 pc Spicy Wings,20pc Spicy Feast Deal,32 Oz Soda
+94563958,2513,1870956895,Digital,WWT,ToGo,Guest,Veggie Sticks Spicy,15 pc Crispy Strips,Fried Corn - Large
+80363740,4094,4763481822,Digital,WWT,Delivery,Guest,75 pc Family Mixed Wings,Large Veggie Sticks Spicy,Fried Corn - Large
+524447456,1754,7181101360,Digital,WWT,ToGo,Registered,Triple Chocolate Cake,10 pc Grilled Wings Combo,8 pc Spicy Wings Combo
+315733057,4750,3628400623,Digital,WWT,ToGo,Registered,Fried Corn - Large,Ranch Dip - Regular,10 pc Grilled Wings Combo
+168193264,2315,212931472,Digital,WWT,ToGo,Guest,Ranch Dip - Large,10 pc Grilled Wings,Large Veggie Sticks Spicy
+494921019,4094,5607933866,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,Ranch Dip - Regular,Regular Buffalo Fries
+813865780,949,843353553,Digital,WWT,Delivery,Guest,6 pc Strips Meal for 2,75 pc Family Mixed Wings,Large Fruit Punch
+366771675,4391,8812752288,Digital,WWT,ToGo,Registered,Cheese Fries - Large,Regular Buffalo Fries,15 pc Spicy Wings
+866086609,801,5847863983,Digital,WWT,ToGo,Guest,32 Oz Soda,20pc Spicy Feast Deal,2 pc Crispy Strips
+364270870,1161,8866492854,Digital,WWT,ToGo,Guest,Fried Corn - Regular,10 pc Grilled Wings,Veggie Sticks Spicy
+47599717,4915,8742060403,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Fried Corn - Regular,Veggie Sticks Spicy
+747711800,857,3271887051,Digital,WWT,Delivery,Guest,15 pc Grilled Wings,Ranch Dip - Regular,2 pc Crispy Strips
+303359421,4595,8517312532,Digital,WWT,Delivery,Registered,Large Fruit Punch,Fried Corn - Regular,Flavor Platter Grilled
+656646304,2315,4166370839,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Ranch Dip - Large,40 pc Family Spicy Wings
+919383131,2786,7052765248,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,Blue Cheese Dip - Large,Fried Corn - Regular
+20056926,1249,3044013178,Digital,WWT,Delivery,Registered,4 pc Crispy Strips,20 pc Grilled Wings,Ranch Dip - Regular
+421052142,1390,383051095,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,10 pc Spicy Wings,Fried Corn - Regular
+401569422,2786,9112164971,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,Ranch Dip - Large,6 pc Grilled Wings Combo
+54774296,3989,5556328,Digital,WWT,ToGo,Guest,20pc Spicy Feast Deal,Large Buffalo Fries,Add 5 Grilled Wings
+365982870,1070,5791873420,Digital,WWT,ToGo,Guest,Regular Buffalo Fries,8 pc Grilled Wings Combo,Add 5 Grilled Wings
+314629368,1390,3656914730,Digital,WWT,ToGo,Registered,8 pc Mixed Wings Combo,10 pc Grilled Wings Combo,Veggie Sticks
+505867016,1161,3518269386,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,20 Oz Soda,10 pc Spicy Wings
+596647702,1247,5495230392,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Veggie Sticks Spicy,Regular Buffalo Fries
+247950793,4541,4238309587,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Add 5 Spicy Wings,Veggie Sticks Spicy
+727735141,4065,9503954287,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,6 pc Spicy Wings Combo,Add 5 Spicy Wings
+874632480,430,7578131243,Digital,WWT,ToGo,Guest,20 pc Grilled Wings,Ranch Dip - Regular,Regular Buffalo Fries
+454149467,857,5546805557,Digital,WWT,Delivery,Guest,Regular Buffalo Fries,4 pc Crispy Strips,Chicken Sub
+322427036,2315,7303368212,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,10 pc Grilled Wings Combo,Veggie Sticks Spicy
+742366367,857,1680125849,Digital,WWT,ToGo,Registered,6 pc Strips Meal for 2,Ranch Dip - Regular,Wings Lunch Combo
+171511753,2315,3342117117,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,Cheese Dip - Medium,10 pc Grilled Wings Combo
+700022050,4915,1860011666,Digital,WWT,ToGo,Registered,Large Buffalo Fries,20pc Spicy Feast Deal,Large Fruit Punch
+766711618,1249,1958104576,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,10 pc Grilled Wings Combo,2 pc Crispy Strips
+192890999,430,7343673588,Digital,WWT,ToGo,Registered,30 pc Mixed Wings,Regular Buffalo Fries,3 pc Crispy Strips Combo
+922165209,4595,8992642594,Digital,WWT,Delivery,Guest,Cheese Fries - Regular,Ranch Dip - Regular,Regular Buffalo Fries
+185353579,1905,8804388400,Digital,WWT,ToGo,Guest,20pc Spicy Feast Deal,Ranch Dip - Large,Fried Corn - Regular
+318840047,801,4737210194,Digital,WWT,ToGo,Guest,20 Oz Soda,20pc Spicy Feast Deal,5 pc Crispy Strips Combo
+682388794,1249,7925803227,Digital,WWT,Delivery,Registered,8 pc Spicy Wings Combo,Large Buffalo Fries,Chicken Sub Combo
+163772119,822,7880238063,Digital,WWT,ToGo,Registered,10 pc Mixed Wings Combo,10 pc Grilled Wings Combo,6 pc Grilled Wings Combo
+388295967,1161,1317989663,Digital,WWT,ToGo,Guest,20 Oz Soda,Ranch Dip - Regular,15 pc Spicy Wings
+899323724,2249,593449461,Digital,WWT,Delivery,Registered,20pc Spicy Feast Deal,10 pc Spicy Wings,Voodoo Fries - Regular
+852659933,2315,4518012030,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,10 pc Grilled Wings,8 pc Spicy Wings Combo
+44500511,2517,4911277420,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Chicken Sub,Chicken Sub Combo
+855343509,2156,6778835137,Digital,WWT,ToGo,Registered,Ranch Dip - Large,20pc Spicy Feast Deal,20 Oz Soda
+297854432,2513,3156933766,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,15 pc Grilled Wings,Ranch Dip - Regular
+665170815,2249,2326194829,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,Ranch Dip - Regular,10 pc Spicy Wings Combo
+128038914,857,8432644352,Digital,WWT,ToGo,Registered,20 Oz Soda,Large Buffalo Fries,7 pc Crispy Strips
+223627884,4065,6170144901,Digital,WWT,ToGo,Guest,Regular Buffalo Fries,10 pc Grilled Wings,6 pc Grilled Wings Combo
+121913804,1390,9060347619,Digital,WWT,ToGo,Guest,Large Buffalo Fries,Ranch Dip - Regular,20 pc Spicy Wings
+61900325,3302,8886736318,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,Large Buffalo Fries,Add 5 Grilled Wings
+850757606,1731,8215461140,Digital,WWT,ToGo,Registered,Fried Corn - Large,15 pc Mixed Wings Combo,2 pc Crispy Strips
+361417295,1390,6709854601,Digital,WWT,ToGo,Registered,Large Buffalo Fries,15 pc Spicy Wings,5 pc Crispy Strips Combo
+913033698,820,5156937997,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,6 pc Spicy Wings Combo,Veggie Sticks Spicy
+864699842,400,5264953502,Digital,WWT,ToGo,Registered,32 Oz Soda,Domestic Lager,20 Oz Soda
+920572252,4541,5756782936,Digital,WWT,Delivery,Guest,Ranch Dip - Regular,Add 5 Spicy Wings,3 Strips Lunch
+245145291,1161,6465033415,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,8 pc Grilled Wings Combo,Ranch Dip - Regular
+927800235,2734,2088803697,Digital,WWT,ToGo,Guest,8 pc Spicy Wings Combo,15 pc Grilled Wings Combo,Blue Cheese Dip - Regular
+192068298,4915,9921131144,Digital,WWT,Delivery,Registered,2 pc Crispy Strips,Large Fruit Punch,Add 5 Spicy Wings
+974091201,1731,8543378696,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,20 Oz Soda,Ranch Dip - Large
+577143156,1161,4386690064,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,10 pc Grilled Wings,Regular Buffalo Fries
+732763986,1905,8833118609,Digital,WWT,ToGo,Registered,30 pc Family Grilled Wings,Fried Corn - Large,15 pc Grilled Wings Combo
+930765144,2513,728026822,Digital,WWT,Delivery,Guest,10 pc Spicy Wings Combo,Voodoo Fries - Large,Ranch Dip - Regular
+542063001,857,6964422874,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,10 pc Grilled Wings Combo,Ranch Dip - Regular
+560482421,4094,2619394683,Digital,WWT,ToGo,Registered,15 pc Grilled Wings Combo,10 pc Grilled Wings,20pc Spicy Feast Deal
+494109314,4541,112434716,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,15 pc Spicy Wings,7 pc Crispy Strips
+969808904,822,4226127641,Digital,WWT,ToGo,Guest,10 pc Spicy Wings Combo,3 pc Crispy Strips Combo,6 pc Spicy Wings Combo
+268717897,2513,391807446,Digital,WWT,ToGo,Guest,Regular Buffalo Fries,6 pc Grilled Wings Combo,Add 5 Spicy Wings
+326938340,2156,9255777990,Digital,WWT,ToGo,Registered,Chicken Sub,10 pc Grilled Wings Combo,6 pc Spicy Wings Combo
+886813829,1731,4104732249,Digital,WWT,ToGo,Registered,Chicken Sub Combo,24 pc Family Grilled Wings,Chicken Sub
+291986419,1249,9652773670,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,Ranch Dip - Regular,10 pc Grilled Wings
+682069989,4391,4840459795,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,7 pc Crispy Strips,Large Buffalo Fries
+557641370,2156,4504947430,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Ranch Dip - Regular,8 pc Grilled Wings Combo
+38672775,1913,7588686121,Digital,WWT,ToGo,Guest,5 pc Crispy Strips Combo,Ranch Dip - Regular,8 pc Grilled Wings Combo
+24124119,822,4804648767,Digital,WWT,ToGo,Registered,10 pc Spicy Wings Combo,8 pc Grilled Wings Combo,6 pc Grilled Wings Combo
+604425244,4391,9635883148,Digital,WWT,Delivery,Guest,Carrot Sticks,10 pc Grilled Wings,Ranch Dip - Regular
+210925501,400,345701565,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20pc Spicy Feast Deal,Voodoo Fries - Large
+960007282,1161,2735628080,Digital,WWT,ToGo,Guest,20 Oz Soda,Ranch Dip - Regular,20 pc Grilled Wings
+786655671,4391,933812866,Digital,WWT,ToGo,Registered,10 pc Spicy Wings Combo,6 pc Strips Meal for 2,Fried Corn - Regular
+628926889,4065,8226771121,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,Regular Buffalo Fries,Ranch Dip - Regular
+131084573,4915,6573347725,Digital,WWT,ToGo,Guest,Fried Corn - Large,Chicken Sub Combo,2 pc Crispy Strips
+601048801,3989,1521389865,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Ranch Dip - Regular,10 pc Grilled Wings
+388942554,4915,6565660501,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,2 pc Crispy Strips,15 pc Grilled Wings
+636666470,3989,5849629760,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,Regular Buffalo Fries,Ranch Dip - Regular
+438145746,3302,3231333615,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,6 pc Mixed Wings Combo,Fried Corn - Regular
+690429788,4094,210941796,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,10 pc Mixed Wings,Ranch Dip - Regular
+711114047,1390,989955882,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Chicken Sub,10 pc Grilled Wings
+14317935,2517,9784043091,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Large Veggie Sticks Spicy,Blue Cheese Dip - Large
+533871373,430,330744085,Digital,WWT,ToGo,Guest,15 pc Grilled Wings,Regular Buffalo Fries,10 pc Grilled Wings
+199559621,4094,9852581132,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,6 pc Spicy Wings Combo,Chicken Sub
+934035857,1754,9099645099,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,32 Oz Soda,10 pc Spicy Wings Combo
+784240669,1390,7066723240,Digital,WWT,ToGo,Registered,Chicken Sub Combo,Chicken Sub,25 pc Game Day Pack
+674694786,1390,5594519086,Digital,WWT,Delivery,Guest,Large Buffalo Fries,15 pc Spicy Wings,Ranch Dip - Regular
+594035041,1419,4585144849,Digital,WWT,ToGo,Guest,6 pc Mixed Wings Combo,Regular Buffalo Fries,Ranch Dip - Large
+205613275,400,1204068454,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Spicy Wings Combo,Fried Corn - Regular
+271259619,2156,6381949545,Digital,WWT,ToGo,Registered,Chicken Sub,6 pc Grilled Wings Combo,8 pc Spicy Wings Combo
+23605398,801,5419425706,Digital,WWT,ToGo,Guest,Add 5 Spicy Wings,10 pc Spicy Wings,Regular Buffalo Fries
+933761219,1390,9459593044,Digital,WWT,ToGo,Guest,Fried Corn - Large,Voodoo Fries - Large,Ranch Dip - Large
+504956560,1247,7778977823,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,Large Buffalo Fries,15 pc Grilled Wings Combo
+539407307,266,9684498357,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Cheese Fries - Large,15 pc Grilled Wings
+777782904,2513,9811510074,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,10 pc Grilled Wings,Ranch Dip - Regular
+594970770,2513,6082031819,Digital,WWT,Delivery,Guest,4 pc Crispy Strips,Cheese Fries - Large,20 pc Grilled Wings
+367538574,820,8887895925,Digital,WWT,ToGo,Guest,Regular Buffalo Fries,100 pc Mixed Wings,50 pc Mixed Wings
+871695150,4391,6450373778,Digital,WWT,ToGo,Guest,10 pc Spicy Wings,Ranch Dip - Regular,10 pc Spicy Wings Combo
+364858673,3302,6419006933,Digital,WWT,ToGo,Guest,Large Buffalo Fries,10 pc Spicy Wings,Ranch Dip - Regular
+146287759,1731,2699835774,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Chicken Sub,Regular Buffalo Fries
+375539392,2517,1369707677,Digital,WWT,Delivery,Guest,Regular Buffalo Fries,Fried Corn - Regular,Ranch Dip - Regular
+132047753,1161,1532663577,Digital,WWT,Delivery,Guest,Large Buffalo Fries,Regular Buffalo Fries,Ranch Dip - Large
+390619846,1161,9069039966,Digital,WWT,Delivery,Guest,6 pc Grilled Wings Combo,Add 5 Grilled Wings,Ranch Dip - Regular
+815481224,2315,2242828550,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,8 pc Grilled Wings Combo,Ranch Dip - Regular
+680623681,2315,7987626765,Digital,WWT,ToGo,Guest,Add 5 Spicy Wings,Ranch Dip - Regular,10 pc Grilled Wings Combo
+512708202,4595,4781334962,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Regular Buffalo Fries,Ranch Dip - Large
+840902409,1249,3315199250,Digital,WWT,ToGo,Registered,4 pc Crispy Strips,Ranch Dip - Regular,10 pc Spicy Wings
+921098580,1161,8148014460,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,15 pc Grilled Wings,15 pc Spicy Wings
+620182438,1249,4713753427,Digital,WWT,ToGo,Guest,10 pc Spicy Wings,Ranch Dip - Regular,Legendary Feast Bundle
+161201112,3989,1975968642,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,75 pc Family Mixed Wings,15 pc Grilled Wings
+77560855,1247,2552588928,Digital,WWT,ToGo,Registered,Large Veggie Sticks,Ranch Dip - Regular,20 Oz Soda
+30092310,4970,4603054513,Digital,WWT,ToGo,Registered,20 Oz Soda,24 pc Family Grilled Wings,Add 5 Grilled Wings
+554453055,2517,938297015,Digital,WWT,ToGo,Guest,Cheese Fries - Regular,Chicken Sub,20 pc Grilled Wings
+236035906,1249,4321092455,Digital,WWT,ToGo,Registered,20 pc Mixed Wings,20 pc Grilled Wings,Ranch Dip - Regular
+302382256,1731,3962842818,Digital,WWT,ToGo,Guest,Large Buffalo Fries,10 pc Spicy Wings,Chicken Sub
+291452912,1913,867995303,Digital,WWT,ToGo,Guest,10 pc Spicy Wings Combo,Triple Chocolate Cake,Ranch Dip - Regular
+375911020,430,368402530,Digital,WWT,ToGo,Guest,Cheese Fries - Regular,Blue Cheese Dip - Regular,10 pc Grilled Wings Combo
+444476360,4541,303427061,Digital,WWT,ToGo,Guest,7 pc Crispy Strips,Chicken Sub,4 pc Crispy Strips
+152480560,2734,8081100487,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,15 pc Grilled Wings,Ranch Dip - Regular
+227373923,266,2548451770,Digital,WWT,ToGo,Guest,Veggie Sticks Spicy,8 pc Grilled Wings Combo,Ranch Dip - Regular
+747201425,4750,6349086403,Digital,WWT,ToGo,Registered,Fried Corn - Large,Ranch Dip - Regular,Large Buffalo Fries
+761607768,400,645444357,Digital,WWT,ToGo,Registered,Ranch Dip - Large,20pc Spicy Feast Deal,32 Oz Soda
+842733449,4915,6396952241,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Chicken Sub,Large Buffalo Fries
+816535303,4094,9575117054,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,6 pc Grilled Wings Combo,Dipping Sauce
+411529953,430,9417949779,Digital,WWT,ToGo,Guest,Fried Corn - Regular,Regular Buffalo Fries,30 pc Grilled Wings
+319084152,1905,3969421881,Digital,WWT,ToGo,Guest,Flavor Platter,10 pc Spicy Wings,Regular Buffalo Fries
+370930081,4595,5473578293,Digital,WWT,ToGo,Guest,20 Oz Soda,10 pc Mixed Wings,Ranch Dip - Regular
+471563344,3989,4270040680,Digital,WWT,ToGo,Guest,6 pc Spicy Wings Combo,6 pc Grilled Wings Combo,Veggie Sticks Spicy
+985880410,4094,1728267841,Digital,WWT,Delivery,Guest,Regular Buffalo Fries,2 pc Crispy Strips,Ranch Dip - Regular
+554381193,4750,7840836849,Digital,WWT,ToGo,Registered,Dipping Sauce,Chicken Sub Combo,2 pc Crispy Strips
+954735225,4094,6485585475,Digital,WWT,ToGo,Registered,15 pc Grilled Wings,Regular Buffalo Fries,Fried Corn - Large
+282899451,949,2388027509,Digital,WWT,Delivery,Guest,8 pc Spicy Wings Combo,Ranch Dip - Regular,Regular Buffalo Fries
+165031272,4541,6150693082,Digital,WWT,ToGo,Guest,8 pc Grilled Wings Combo,Triple Chocolate Cake,10 pc Spicy Wings
+400119647,2513,7272353063,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,20pc Spicy Feast Deal,Blue Cheese Dip - Regular
+145533966,4750,2830756398,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20 pc Mixed Wings,Large Buffalo Fries
+369865551,3989,7058100246,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Fried Corn - Regular,Large Buffalo Fries
+829177060,1731,2947375396,Digital,WWT,Delivery,Guest,Dipping Sauce,10 pc Spicy Wings Combo,10 pc Grilled Wings Combo
+840283816,4915,5717084269,Digital,WWT,ToGo,Guest,6 pc Grilled Wings Combo,10 pc Mixed Wings Combo,10 pc Spicy Wings Combo
+946523371,4915,10304715,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Chicken Sub Combo,32 Oz Soda
+822161531,2513,9542471282,Digital,WWT,ToGo,Registered,20 pc Mixed Wings,20pc Spicy Feast Deal,Regular Buffalo Fries
+702350079,857,5200412964,Digital,WWT,ToGo,Guest,24 pc Family Grilled Wings,4 pc Crispy Strips,10 pc Spicy Wings
+948225412,4541,6806712765,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Fried Corn - Regular,4 pc Crispy Strips
+395172543,2513,5621871691,Digital,WWT,Delivery,Guest,Regular Buffalo Fries,15 pc Spicy Wings,Large Buffalo Fries
+493000944,1913,4969171459,Digital,WWT,ToGo,Guest,10 pc Grilled Wings Combo,8 pc Grilled Wings Combo,Veggie Sticks Spicy
+258115080,3302,205348647,Digital,WWT,ToGo,Registered,Large Buffalo Fries,6 pc Strips Meal for 2,Chicken Sub
+76205072,857,5949595841,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,Ranch Dip - Regular,Chicken Sub Combo
+985398096,3302,3134908072,Digital,WWT,ToGo,Registered,15 pc Spicy Wings,20 pc Grilled Wings,Cheese Fries - Large
+528421418,400,2245282830,Digital,WWT,ToGo,Registered,Add 5 Grilled Wings,2 pc Crispy Strips,20pc Spicy Feast Deal
+534055810,2249,8411432964,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,Fried Corn - Regular,10 pc Spicy Wings
+207475094,4915,2212713985,Digital,WWT,ToGo,Registered,Large Buffalo Fries,20 pc Grilled Wings,Ranch Dip - Regular
+865300303,4915,1825900796,Digital,WWT,ToGo,Guest,Flavor Platter,Dipping Sauce,2 pc Crispy Strips
+448180164,1161,7056147825,Digital,WWT,Delivery,Registered,100 pc Family Spicy Wings,Cheese Dip - Large,50 pc Family Spicy Wings
+133986702,1765,3865155854,Digital,WWT,ToGo,Guest,15 pc Grilled Wings,Voodoo Fries - Regular,Ranch Dip - Regular
+618529034,4541,2809974464,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,7 pc Crispy Strips,Ranch Dip - Regular
+235649333,1249,6822048317,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Regular Buffalo Fries,Ranch Dip - Regular
+286692102,1754,7086279196,Digital,WWT,ToGo,Guest,8 pc Spicy Wings Combo,15 pc Grilled Wings,Blue Cheese Dip - Regular
+501704747,4970,1080901131,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Spicy Wings,2 pc Crispy Strips
+315918033,1161,1268364080,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Regular Buffalo Fries,2 pc Crispy Strips
+186831072,4094,1080281570,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Large Buffalo Fries,30 pc Grilled Wings
+139622147,4094,2136740251,Digital,WWT,ToGo,Guest,8 pc Spicy Wings Combo,Ranch Dip - Regular,20 Oz Soda
+422896212,2786,6856514956,Digital,WWT,ToGo,Registered,Add 5 Grilled Wings,Ranch Dip - Regular,10 pc Mixed Wings
+613641739,4094,2178455352,Digital,WWT,ToGo,Guest,6 pc Grilled Wings Combo,8 pc Grilled Wings Combo,8 pc Spicy Wings Combo
+238232271,4065,2662017729,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,8 pc Grilled Wings Combo,Fried Corn - Large
+153963067,1390,8746830457,Digital,WWT,ToGo,Guest,30 pc Family Grilled Wings,Chicken Sub,Regular Buffalo Fries
+457144511,1249,5707522838,Digital,WWT,ToGo,Guest,Regular Buffalo Fries,Fried Corn - Regular,Ranch Dip - Regular
+946799321,1161,4840008190,Digital,WWT,Delivery,Registered,10 pc Grilled Wings Combo,Honey Mustard Dip - Regular,Veggie Sticks
+632698702,1905,7698022159,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,Ranch Dip - Regular,Chicken Sub
+1775113,949,6036140536,Digital,WWT,Delivery,Registered,4 pc Crispy Strips,10 pc Mixed Wings Combo,10 pc Spicy Wings Combo
+751750796,2513,5379223168,Digital,WWT,ToGo,Registered,25 pc Game Day Pack,Chicken Sub,2 pc Crispy Strips
+805242993,1070,7084612458,Digital,WWT,ToGo,Registered,Blue Cheese Dip - Regular,Large Buffalo Fries,32 Oz Soda
+178137780,4915,5799185747,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Large Buffalo Fries,10 pc Grilled Wings
+574635072,4094,1075535733,Digital,WWT,ToGo,Registered,20 pc Grilled Wings,20pc Spicy Feast Deal,Veggie Sticks
+195677449,857,8615293667,Digital,WWT,ToGo,Guest,10 pc Spicy Wings,Ranch Dip - Regular,Veggie Sticks Spicy
+539777591,4094,1545723882,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,Add 5 Grilled Wings,15 pc Grilled Wings
+495386739,949,2249743423,Digital,WWT,ToGo,Registered,Fried Corn - Regular,Add 5 Spicy Wings,Veggie Sticks Spicy
+756507070,1731,8079647515,Digital,WWT,ToGo,Registered,Large Buffalo Fries,50 pc Grilled Wings,Ranch Dip - Large
+238999423,2513,9894137829,Digital,WWT,ToGo,Registered,Ranch Dip - Large,15 pc Spicy Wings,10 pc Spicy Wings
+877256472,4391,975026770,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Grilled Wings Combo,Chicken Sub Combo
+162075107,4094,865567508,Digital,WWT,ToGo,Registered,10 pc Spicy Wings Combo,Veggie Sticks Spicy,7 pc Crispy Strips
+341197609,2513,9413963808,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,Ranch Dip - Regular,15 pc Grilled Wings
+604969268,2786,4438125056,Digital,WWT,ToGo,Guest,10 pc Grilled Wings Combo,Fried Corn - Regular,Add 5 Spicy Wings
+459476791,4595,7798663791,Digital,WWT,ToGo,Registered,15 pc Grilled Wings,Regular Buffalo Fries,20pc Spicy Feast Deal
+645398112,1249,5523082689,Digital,WWT,ToGo,Registered,Flavor Platter,Regular Buffalo Fries,7 pc Crispy Strips
+329674061,1249,4719128119,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,10 pc Grilled Wings Combo,Fried Corn - Large
+293594508,2513,3919270379,Digital,WWT,Delivery,Registered,Chicken Sub Combo,6 pc Grilled Wings Combo,Ranch Dip - Regular
+271002769,1249,6887117000,Digital,WWT,ToGo,Registered,Fried Corn - Regular,6 pc Spicy Wings Combo,Dipping Sauce
+330188707,2513,9168479007,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,Ranch Dip - Regular,8 pc Spicy Wings Combo
+703660536,266,7702240576,Digital,WWT,ToGo,Guest,30 pc Family Grilled Wings,2 pc Crispy Strips,Add 5 Spicy Wings
+321094118,1419,9174727995,Digital,WWT,Delivery,Registered,10 pc Mixed Wings Combo,Veggie Sticks Spicy,2 pc Crispy Strips
+549548713,1070,4210496609,Digital,WWT,ToGo,Registered,Large Veggie Sticks Spicy,Ranch Dip - Large,10 pc Grilled Wings
+491059966,2315,2084757272,Digital,WWT,ToGo,Registered,Fried Corn - Regular,2 pc Crispy Strips,24 pc Family Grilled Wings
+50359042,2315,3054122522,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,8 pc Crispy Strips Combo,8 pc Grilled Wings Combo
+268790141,2517,3731883966,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Fried Corn - Regular,20pc Spicy Feast Deal
+37237275,1913,3532778112,Digital,WWT,ToGo,Registered,Fried Corn - Regular,Regular Buffalo Fries,Chicken Sub
+165788543,4915,7000527344,Digital,WWT,ToGo,Registered,10 pc Mixed Wings,Large Buffalo Fries,15 pc Spicy Wings
+80786157,1754,3031946103,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,20 Oz Soda,10 pc Grilled Wings Combo
+618221104,4595,2085578287,Digital,WWT,ToGo,Registered,Large Fruit Punch,Regular Buffalo Fries,6 pc Grilled Wings Combo
+657101543,857,1454505686,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,5 pc Crispy Strips Combo,10 pc Grilled Wings Combo
+87471971,3989,6882754725,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20 pc Grilled Wings,Large Buffalo Fries
+31776797,2315,4183851135,Digital,WWT,ToGo,Registered,Veggie Sticks,20 pc Grilled Wings,15 pc Spicy Wings
+655655109,2513,8517270013,Digital,WWT,ToGo,Registered,Chicken Sub Combo,Veggie Sticks Spicy,Ranch Dip - Large
+542206341,2513,5684502284,Digital,WWT,ToGo,Registered,8 pc Spicy Wings Combo,6 pc Spicy Wings Combo,Ranch Dip - Regular
+865951221,4750,9517647699,Digital,WWT,ToGo,Guest,Add 5 Grilled Wings,Veggie Sticks,4 pc Crispy Strips
+608387538,4065,6147345626,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,20 Oz Soda,20pc Spicy Feast Deal
+810007994,4154,9876264347,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,Add 5 Spicy Wings,4 pc Crispy Strips
+237417656,266,537222391,Digital,WWT,ToGo,Registered,40 pc Family Grilled Wings,2 pc Crispy Strips,Dipping Sauce
+18215716,1070,7770307932,Digital,WWT,Delivery,Registered,Add 5 Spicy Wings,15 pc Grilled Wings Combo,Ranch Dip - Regular
+664194291,822,9093101396,Digital,WWT,ToGo,Guest,Fried Corn - Regular,10 pc Spicy Wings Combo,8 pc Grilled Wings Combo
+434105418,4915,7011445251,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Large Buffalo Fries,50 pc Mixed Wings
+999144470,1913,1728450601,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,2 pc Crispy Strips,8 pc Grilled Wings Combo
+510747814,3989,9994959258,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Veggie Sticks Spicy,Cheese Dip - Medium
+738888561,2315,6163386764,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Chicken Sub,10 pc Grilled Wings
+104442280,857,5249892753,Digital,WWT,ToGo,Registered,Veggie Sticks,Ranch Dip - Regular,Regular Buffalo Fries
+997867418,2517,9022431604,Digital,WWT,ToGo,Registered,20 Oz Soda,25 pc Game Day Pack,Ranch Dip - Large
+682016471,3989,5932543844,Digital,WWT,ToGo,Registered,6 pc Strips Meal for 2,Blue Cheese Dip - Regular,2 pc Crispy Strips
+121423151,949,259381296,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,2 pc Crispy Strips,Ranch Dip - Regular
+89991151,3989,1503107562,Digital,WWT,ToGo,Registered,Large Buffalo Fries,50 pc Family Grilled Wings,Cheese Dip - Large
+934522839,4750,7139989048,Digital,WWT,ToGo,Registered,Honey Mustard Dip - Regular,15 pc Grilled Wings Combo,Fried Corn - Regular
+21896473,1905,8760482431,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Ranch Dip - Regular,Cheese Fries - Regular
+666980741,4750,611788846,Digital,WWT,ToGo,Guest,8 pc Grilled Wings Combo,10 pc Grilled Wings,3 pc Crispy Strips Combo
+503459037,1905,6560374981,Digital,WWT,ToGo,Registered,Voodoo Fries - Large,15 pc Spicy Wings,Ranch Dip - Regular
+707418381,2513,1949558091,Digital,WWT,ToGo,Registered,7 pc Crispy Strips,Chicken Sub Combo,Ranch Dip - Large
+349618946,1247,2831402892,Digital,WWT,ToGo,Registered,Honey Mustard Dip - Regular,20pc Spicy Feast Deal,4 pc Crispy Strips
+538941731,4541,47708277,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,Fried Corn - Regular,7 pc Crispy Strips
+596027475,1913,5689640368,Digital,WWT,ToGo,Registered,10 pc Spicy Wings Combo,6 pc Grilled Wings Combo,Fried Corn - Large
+278997156,430,8578506629,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,Regular Buffalo Fries,15 pc Spicy Wings
+911678121,3302,9180642088,Digital,WWT,ToGo,Guest,15 pc Grilled Wings Combo,4 pc Crispy Strips,Large Veggie Sticks Spicy
+122678877,4094,669155084,Digital,WWT,ToGo,Guest,24 pc Family Grilled Wings,Veggie Sticks,Ranch Dip - Regular
+963812521,430,7624805553,Digital,WWT,ToGo,Registered,15 pc Grilled Wings,Large Veggie Sticks Spicy,Large Buffalo Fries
+266669847,857,4698972736,Digital,WWT,ToGo,Registered,Chicken Sub Combo,Ranch Dip - Large,Fried Corn - Regular
+441827757,2517,372297477,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20 pc Spicy Wings,Fried Corn - Regular
+758317012,4970,9425921603,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,10 pc Grilled Wings,Regular Buffalo Fries
+998083572,1249,6803182129,Digital,WWT,ToGo,Registered,10 pc Spicy Wings Combo,Chicken Sub,10 pc Grilled Wings Combo
+71807465,4750,8958634456,Digital,WWT,ToGo,Registered,4 pc Crispy Strips,Honey Mustard Dip - Regular,10 pc Grilled Wings
+949861050,2517,2613680475,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,Carrot Sticks,20pc Spicy Feast Deal
+125809610,1731,4203606663,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Add 5 Spicy Wings,Chicken Sub
+893355849,2156,7671508869,Digital,WWT,Delivery,Registered,10 pc Grilled Wings Combo,Chicken Sub,6 pc Grilled Wings Combo
+409492037,2154,4324279990,Digital,WWT,ToGo,Registered,20 pc Grilled Wings,Regular Buffalo Fries,Honey Mustard Dip - Regular
+744647367,2156,2093937731,Digital,WWT,Delivery,Registered,Large Veggie Sticks Spicy,8 pc Grilled Wings Combo,Blue Cheese Dip - Regular
+186767073,1070,9555328985,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Mixed Wings,6 pc Grilled Wings Combo
+269072152,1731,7370820866,Digital,WWT,ToGo,Registered,Fried Corn - Regular,20 pc Grilled Wings,Large Buffalo Fries
+790139464,2513,4205875203,Digital,WWT,ToGo,Registered,30 pc Family Grilled Wings,Large Buffalo Fries,Ranch Dip - Large
+772396660,2513,5419114091,Digital,WWT,Delivery,Registered,Large Veggie Sticks Spicy,Ranch Dip - Large,8 pc Grilled Wings Combo
+403788426,1731,7180339239,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Add 5 Spicy Wings,15 pc Spicy Wings
+574719293,1161,2700390696,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,Ranch Dip - Regular,32 Oz Soda
+884958844,820,8954123244,Digital,WWT,ToGo,Registered,7 pc Crispy Strips,Ranch Dip - Regular,Chicken Sub
+654457402,1913,7806033525,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,8 pc Grilled Wings Combo,6 pc Spicy Wings Combo
+686356595,1249,5332500654,Digital,WWT,ToGo,Registered,40 pc Family Mixed Wings,Large Buffalo Fries,2 pc Crispy Strips
+761589908,4094,1050383316,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,10 pc Grilled Wings,Ranch Dip - Regular
+728198877,4094,535287654,Digital,WWT,ToGo,Registered,30 pc Family Mixed Wings,Cheese Dip - Medium,Fried Corn - Regular
+144876623,857,9656080838,Digital,WWT,ToGo,Guest,Ranch Dip - Large,2 pc Crispy Strips,10 pc Grilled Wings Combo
+438838059,1390,82294768,Digital,WWT,ToGo,Registered,15 pc Spicy Wings,10 pc Spicy Wings,Ranch Dip - Regular
+952976896,4595,2881013776,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Spicy Wings Combo,6 pc Grilled Wings Combo
+626916782,1390,5652209528,Digital,WWT,ToGo,Registered,Ranch Dip - Large,32 Oz Soda,30 pc Family Spicy Wings
+966591485,949,4701348911,Digital,WWT,ToGo,Registered,Fried Corn - Regular,20 pc Grilled Wings,Voodoo Fries - Large
+75129874,4094,4419583236,Digital,WWT,ToGo,Registered,50 pc Grilled Wings,Fried Corn - Large,Large Veggie Sticks Spicy
+652081163,430,1185621145,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Ranch Dip - Regular,2 pc Crispy Strips
+611185104,4065,4252386472,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20pc Spicy Feast Deal,Regular Buffalo Fries
+816288103,1913,4779394745,Digital,WWT,Delivery,Registered,Ranch Dip - Large,10 pc Spicy Wings Combo,Chicken Sub Combo
+212568507,1390,8950233928,Digital,WWT,ToGo,Registered,Ranch Dip - Large,15 pc Grilled Wings Combo,Buffalo Fries
+906774409,949,6190027165,Digital,WWT,ToGo,Registered,32 Oz Soda,20pc Spicy Feast Deal,8 pc Spicy Wings Combo
+297703290,1419,1159134518,Digital,WWT,ToGo,Guest,Large Buffalo Fries,Add 5 Spicy Wings,10 pc Spicy Wings
+451722368,1754,2724009354,Digital,WWT,ToGo,Registered,Chicken Sub,Regular Buffalo Fries,Ranch Dip - Large
+859691862,3302,1654456049,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,6 pc Grilled Wings Combo,Ranch Dip - Regular
+646843629,949,5393176549,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,2 pc Crispy Strips,10 pc Spicy Wings Combo
+759071710,1913,8217249975,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Triple Chocolate Cake,Blue Cheese Dip - Regular
+699365360,1249,259464238,Digital,WWT,ToGo,Registered,5 pc Crispy Strips Combo,10 pc Grilled Wings Combo,Ranch Dip - Regular
+768103555,2517,2320507812,Digital,WWT,ToGo,Guest,Add 5 Grilled Wings,Chicken Sub,Honey Mustard Dip - Regular
+19022927,1070,8419656995,Digital,WWT,Delivery,Registered,20 pc Grilled Wings,20pc Spicy Feast Deal,Ranch Dip - Large
+764351212,1161,5052218810,Digital,WWT,ToGo,Registered,30 pc Family Grilled Wings,Regular Buffalo Fries,Fried Corn - Large
+368273775,1731,3618787551,Digital,WWT,ToGo,Registered,Add 5 Grilled Wings,10 pc Grilled Wings,Ranch Dip - Regular
+646605683,822,2364812863,Digital,WWT,ToGo,Registered,Voodoo Fries - Regular,Ranch Dip - Regular,Fried Corn - Regular
+466684892,1070,9071741090,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,6 pc Grilled Wings Combo,8 pc Grilled Wings Combo
+976003011,1390,7149467494,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,20pc Spicy Feast Deal,Regular Buffalo Fries
+8459779,801,1701147152,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,15 pc Spicy Wings,10 pc Spicy Wings
+14195453,4541,1823126471,Digital,WWT,ToGo,Registered,Voodoo Fries - Regular,10 pc Spicy Wings,10 pc Grilled Wings
+607878209,857,5084980857,Digital,WWT,Delivery,Registered,10 pc Grilled Wings,Ranch Dip - Regular,Regular Buffalo Fries
+862700405,2513,1643867472,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,5 pc Crispy Strips Combo,Large Buffalo Fries
+911490520,4065,4156759277,Digital,WWT,ToGo,Registered,Fried Corn - Large,Ranch Dip - Regular,Regular Buffalo Fries
+185718291,820,7441080168,Digital,WWT,Delivery,Registered,Add 5 Grilled Wings,Large Buffalo Fries,Honey Mustard Dip - Regular
+160856446,2786,4187154551,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Ranch Dip - Regular,30 pc Family Grilled Wings
+66073318,801,2973744073,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,10 pc Spicy Wings,Ranch Dip - Regular
+767973667,4915,7273483976,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,2 pc Crispy Strips,Ranch Dip - Large
+130208692,4391,5364917317,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,15 pc Mixed Wings Combo,Ranch Dip - Regular
+746813255,1419,8043173859,Digital,WWT,ToGo,Registered,4 pc Crispy Strips,Ranch Dip - Regular,Fried Corn - Large
+836624898,2734,4737640060,Digital,WWT,ToGo,Guest,Chicken Sub Combo,Add 5 Spicy Wings,8 pc Spicy Wings Combo
+120452466,4094,8858825974,Digital,WWT,Delivery,Registered,Ranch Dip - Large,10 pc Spicy Wings,8 pc Spicy Wings Combo
+478405266,2513,4994545499,Digital,WWT,ToGo,Registered,10 pc Spicy Wings Combo,Ranch Dip - Regular,6 pc Grilled Wings Combo
+770544200,2315,7689683783,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,8 pc Grilled Wings Combo,3 pc Crispy Strips Combo
+53871260,1754,3411198475,Digital,WWT,ToGo,Registered,Large Buffalo Fries,20pc Spicy Feast Deal,10 pc Spicy Wings
+521531429,4750,70604594,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,10 pc Grilled Wings,20 pc Grilled Wings
+536807702,857,1507034645,Digital,WWT,ToGo,Registered,15 pc Mixed Wings Combo,Dipping Sauce,6 pc Strips Meal for 2
+812996822,949,7888834332,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,Honey Mustard Dip - Regular,10 pc Spicy Wings Combo
+963586826,1913,8380919764,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Ranch Dip - Large,15 pc Grilled Wings
+851037988,1905,6822445460,Digital,WWT,ToGo,Guest,Ranch Dip - Large,4 pc Crispy Strips,20pc Spicy Feast Deal
+915206357,822,3732411939,Digital,WWT,ToGo,Registered,Fried Corn - Regular,10 pc Spicy Wings Combo,20 Oz Soda
+745165274,4094,1923488668,Digital,WWT,Delivery,Registered,Regular Buffalo Fries,Chicken Sub,Ranch Dip - Regular
+758694283,4094,618291691,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,10 pc Grilled Wings,8 pc Grilled Wings Combo
+713525315,1070,1092694676,Digital,WWT,ToGo,Registered,Dipping Sauce,8 pc Spicy Wings Combo,Regular Buffalo Fries
+649325596,4541,9364692067,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,Regular Buffalo Fries,Dipping Sauce
+446654597,4970,5161768194,Digital,WWT,ToGo,Registered,5 pc Crispy Strips Combo,Ranch Dip - Regular,Large Veggie Sticks Spicy
+427924801,4391,5908298048,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Grilled Wings,7 pc Crispy Strips
+449452169,2517,3370585795,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,Ranch Dip - Regular,10 pc Spicy Wings Combo
+710637675,4391,946319589,Digital,WWT,ToGo,Registered,Fried Corn - Regular,8 pc Spicy Wings Combo,10 pc Spicy Wings Combo
+209052206,4915,7411304720,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Chicken Sub,Chicken Sub Combo
+168662328,2315,4677390738,Digital,WWT,Delivery,Registered,Fried Corn - Large,24 pc Family Spicy Wings,Regular Buffalo Fries
+692168764,4750,273860650,Digital,WWT,ToGo,Registered,Add 5 Grilled Wings,20pc Spicy Feast Deal,Blue Cheese Dip - Regular
+919445409,2156,7403751667,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,4 pc Crispy Strips,Regular Buffalo Fries
+752881091,1249,7319050711,Digital,WWT,ToGo,Registered,Large Buffalo Fries,32 Oz Soda,10 pc Spicy Wings
+756354273,1731,5641766138,Digital,WWT,Delivery,Registered,Flavor Platter,Ranch Dip - Regular,15 pc Grilled Wings
+217635530,4750,9903102409,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,20pc Spicy Feast Deal,Large Buffalo Fries
+324291585,4391,3142443485,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,Large Buffalo Fries,10 pc Spicy Wings
+620306087,1754,1880225523,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,Large Buffalo Fries,Flavor Platter
+410664547,4595,979822142,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,Ranch Dip - Regular,6 pc Grilled Wings Combo
+437550182,4094,3878451767,Digital,WWT,Delivery,Guest,15 pc Grilled Wings,Large Buffalo Fries,Blue Cheese Dip - Large
+714828381,949,2086190050,Digital,WWT,ToGo,Registered,Fried Corn - Large,Ranch Dip - Regular,Large Fruit Punch
+289872773,3989,6715395470,Digital,WWT,ToGo,Registered,Chicken Sub,10 pc Spicy Wings,Ranch Dip - Regular
+859207634,2513,1738379908,Digital,WWT,ToGo,Guest,Ranch Dip - Large,10 pc Grilled Wings,Cheese Fries - Regular
+777050823,1765,9574182828,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,6 pc Grilled Wings Combo,Fried Corn - Regular
+53842072,4391,33185833,Digital,WWT,Delivery,Registered,20 pc Grilled Wings,Ranch Dip - Regular,2 pc Crispy Strips
+495352879,2513,3866738814,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Triple Chocolate Cake,10 pc Spicy Wings
+222121693,857,695591194,Digital,WWT,ToGo,Registered,Add 5 Grilled Wings,15 pc Grilled Wings Combo,Regular Buffalo Fries
+525044361,1390,6234780227,Digital,WWT,Delivery,Registered,Fried Corn - Regular,Ranch Dip - Regular,15 pc Grilled Wings Combo
+61671957,1731,5996504564,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Add 5 Grilled Wings,20pc Spicy Feast Deal
+267952548,1161,5810339034,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,10 pc Grilled Wings Combo,2 pc Crispy Strips
+974471385,2156,810226928,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Chicken Sub,Large Veggie Sticks Spicy
+622357146,4094,1485257010,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,15 pc Grilled Wings,Ranch Dip - Large
+897824618,949,2819565840,Digital,WWT,Delivery,Registered,6 pc Strips Meal for 2,8 pc Grilled Wings Combo,10 pc Grilled Wings Combo
+322629126,2513,4005714505,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Ranch Dip - Regular,10 pc Spicy Wings
+257917487,1070,1718852890,Digital,WWT,ToGo,Registered,Honey Mustard Dip - Regular,20pc Spicy Feast Deal,Fried Corn - Large
+175351356,4094,7817604370,Digital,WWT,ToGo,Guest,Chicken Sub,Add 5 Spicy Wings,Ranch Dip - Regular
+689773469,1070,2211951178,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,10 pc Grilled Wings,Blue Cheese Dip - Large
+227754535,4915,7911258481,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,Ranch Dip - Regular,Chicken Sub
+195445157,1161,3897323240,Digital,WWT,ToGo,Guest,Regular Buffalo Fries,32 Oz Soda,Cheese Fries - Regular
+756383486,4391,5888699408,Digital,WWT,Delivery,Registered,20pc Spicy Feast Deal,Fried Corn - Large,30 pc Grilled Wings
+866746465,4094,843734867,Digital,WWT,Delivery,Registered,10 pc Spicy Wings,Veggie Sticks Spicy,Large Buffalo Fries
+317051758,4094,8678648026,Digital,WWT,ToGo,Registered,15 pc Spicy Wings,10 pc Grilled Wings Combo,Ranch Dip - Large
+325527378,857,2291679795,Digital,WWT,Delivery,Registered,Fried Corn - Large,8 pc Crispy Strips Combo,Cheese Dip - Medium
+815216424,2156,845704570,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,2 pc Crispy Strips,Fried Corn - Regular
+368432562,1905,4457792472,Digital,WWT,ToGo,Registered,6 pc Mixed Wings Combo,10 pc Mixed Wings Combo,8 pc Spicy Wings Combo
+687993759,3302,9598598332,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Chicken Sub,Add 5 Grilled Wings
+262751148,2517,5403972916,Digital,WWT,ToGo,Registered,Cheese Fries - Large,4 pc Crispy Strips,Ranch Dip - Regular
+463584425,2156,5210859975,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Large Buffalo Fries,2 pc Crispy Strips
+826854805,1249,3493872275,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,Ranch Dip - Regular,15 pc Grilled Wings
+980328615,4915,3687052263,Digital,WWT,ToGo,Registered,Flavor Platter,Fried Corn - Regular,20 Oz Soda
+129620366,2154,3703047186,Digital,WWT,ToGo,Registered,Fried Corn - Large,10 pc Grilled Wings Combo,Large Veggie Sticks
+87552861,4065,7451586334,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,8 pc Grilled Wings Combo,Fried Corn - Large
+917703095,1161,5635930911,Digital,WWT,ToGo,Guest,15 pc Spicy Wings,Fried Corn - Regular,Regular Buffalo Fries
+449367981,1247,149194430,Digital,WWT,ToGo,Guest,3 pc Crispy Strips Combo,6 pc Grilled Wings Combo,8 pc Grilled Wings Combo
+157620852,4915,189700058,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Flavor Platter,Fried Corn - Regular
+945003101,1390,9902416399,Digital,WWT,ToGo,Registered,Fried Corn - Large,6 pc Grilled Wings Combo,8 pc Grilled Wings Combo
+6450756,822,7123011493,Digital,WWT,ToGo,Registered,Fried Corn - Large,Chicken Sub,Large Buffalo Fries
+868901765,801,8579149558,Digital,WWT,ToGo,Registered,Fried Corn - Large,4 pc Crispy Strips,Ranch Dip - Regular
+429524654,3989,9182909034,Digital,WWT,ToGo,Registered,Chicken Sub,Ranch Dip - Large,Large Buffalo Fries
+221472051,1161,9904341555,Digital,WWT,Delivery,Registered,Add 5 Grilled Wings,Fried Corn - Regular,Ranch Dip - Large
+458842827,4541,161016703,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,5 pc Crispy Strips Combo,10 pc Spicy Wings Combo
+113008173,4915,6246409026,Digital,WWT,Delivery,Guest,Ranch Dip - Regular,Fried Corn - Regular,20 Oz Soda
+57587803,4094,4249966598,Digital,WWT,ToGo,Guest,Cheese Dip - Medium,10 pc Grilled Wings Combo,Drink Upgrade
+554691087,949,5761345857,Digital,WWT,ToGo,Registered,7 pc Crispy Strips,Ranch Dip - Regular,10 pc Grilled Wings
+566583111,820,2677403846,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,6 pc Grilled Wings Combo,10 pc Grilled Wings
+682663568,949,2929188397,Digital,WWT,Delivery,Registered,20 pc Grilled Wings,7 pc Crispy Strips,Fried Corn - Large
+193203151,2249,4073275741,Digital,WWT,ToGo,Registered,32 Oz Soda,Triple Chocolate Cake,Large Veggie Sticks Spicy
+415538640,2513,64684542,Digital,WWT,Delivery,Registered,Cheese Fries - Regular,Add 5 Grilled Wings,7 pc Crispy Strips
+955479241,2513,9873278175,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Blue Cheese Dip - Regular,10 pc Spicy Wings
+957361868,1161,1091012853,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,Blue Cheese Dip - Regular,Regular Buffalo Fries
+523614277,2315,3678864067,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,5 pc Crispy Strips Combo,Ranch Dip - Regular
+973871811,2517,4014744899,Digital,WWT,Delivery,Registered,15 pc Grilled Wings,Regular Buffalo Fries,Honey Mustard Dip - Regular
+795795052,1161,195530503,Digital,WWT,ToGo,Registered,15 pc Grilled Wings,Ranch Dip - Regular,Add 5 Grilled Wings
+934027151,2786,1380255862,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,32 Oz Soda,Ranch Dip - Regular
+608611161,949,3330312221,Digital,WWT,ToGo,Guest,Ranch Dip - Large,7 pc Crispy Strips,40 pc Family Grilled Wings
+911918093,2249,7825505059,Digital,WWT,ToGo,Registered,5 pc Crispy Strips Combo,3 pc Crispy Strips Combo,Fried Corn - Large
+623755486,3302,89246613,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Chicken Sub,Large Buffalo Fries
+970435241,2315,5988110499,Digital,WWT,ToGo,Registered,Fried Corn - Regular,15 pc Mixed Wings,Ranch Dip - Large
+174940085,857,3425989631,Digital,WWT,Delivery,Registered,Voodoo Fries - Regular,10 pc Grilled Wings,Add 5 Spicy Wings
+321653444,1161,9129739719,Digital,WWT,ToGo,Registered,Ranch Dip - Large,25 pc Game Day Pack,Regular Buffalo Fries
+103248341,1070,3153984013,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,10 pc Grilled Wings,Regular Buffalo Fries
+615532126,822,7552433392,Digital,WWT,Delivery,Guest,Triple Chocolate Cake,Chicken Sub,20pc Spicy Feast Deal
+450093457,2786,7877461865,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Chicken Sub Combo,6 pc Spicy Wings Combo
+880760619,4915,3134091315,Digital,WWT,ToGo,Registered,Ranch Dip - Large,20pc Spicy Feast Deal,Large Buffalo Fries
+397747481,3302,5433442772,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Voodoo Fries - Large,10 pc Grilled Wings Combo
+415422291,3989,6943924195,Digital,WWT,ToGo,Guest,8 pc Grilled Wings Combo,Chicken Sub,Chicken Sub Combo
+202158103,4915,3566623091,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,2 pc Crispy Strips,20pc Spicy Feast Deal
+575371964,1161,779002209,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Large Buffalo Fries,Fried Corn - Large
+329572708,1754,6600463412,Digital,WWT,ToGo,Guest,Veggie Sticks,Ranch Dip - Regular,10 pc Grilled Wings
+86219496,1905,9294151036,Digital,WWT,ToGo,Guest,Cheese Dip - Regular,10 pc Spicy Wings,20pc Spicy Feast Deal
+386518203,1913,3598193603,Digital,WWT,ToGo,Registered,Ranch Dip - Large,10 pc Grilled Wings Combo,Fried Corn - Large
+563812737,2513,4184105911,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,Ranch Dip - Regular,6 pc Grilled Wings Combo
+938626764,4094,5865107623,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Ranch Dip - Regular,10 pc Spicy Wings
+53289142,3989,2564428242,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,8 pc Grilled Wings Combo,Honey Mustard Dip - Regular
+676803784,2786,8720474381,Digital,WWT,ToGo,Registered,30 pc Mixed Wings,Ranch Dip - Regular,Regular Buffalo Fries
+499291047,2513,402049448,Digital,WWT,ToGo,Registered,Chicken Sub Combo,25 pc Game Day Pack,Ranch Dip - Regular
+230389723,4915,2580653930,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,Ranch Dip - Large,20pc Spicy Feast Deal
+633868803,4094,1662201650,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,8 pc Grilled Wings Combo,2 pc Crispy Strips
+339644701,1390,3122160570,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,10 pc Spicy Wings,Add 5 Spicy Wings
+623349349,1249,4892284959,Digital,WWT,Delivery,Registered,Large Buffalo Fries,Ranch Dip - Regular,Chicken Sub
+251956256,1249,9765325485,Digital,WWT,ToGo,Registered,Chicken Sub Combo,6 pc Grilled Wings Combo,10 pc Spicy Wings Combo
+717724872,1249,8286138593,Digital,WWT,Delivery,Registered,Fried Corn - Large,15 pc Grilled Wings,Regular Buffalo Fries
+216933344,4915,5908404250,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,10 pc Spicy Wings Combo,6 pc Spicy Wings Combo
+646434146,2156,9980257104,Digital,WWT,Delivery,Registered,4 pc Crispy Strips,Ranch Dip - Regular,Large Buffalo Fries
+96300197,2786,8104541214,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,3 Strips Lunch,Ranch Dip - Large
+605308343,2517,7804082815,Digital,WWT,ToGo,Registered,Dipping Sauce,Buffalo Fries,10 pc Grilled Wings Combo
+656721128,2156,6088506731,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,8 pc Spicy Wings Combo,Ranch Dip - Regular
+224542542,1390,6960438243,Digital,WWT,ToGo,Registered,Fried Corn - Large,Chicken Sub Combo,Add 5 Spicy Wings
+595034788,4750,4986192894,Digital,WWT,ToGo,Registered,Fried Corn - Large,20pc Spicy Feast Deal,Large Fruit Punch
+391414991,4094,3912785177,Digital,WWT,ToGo,Registered,Flavor Platter,32 Oz Soda,Carrot Sticks
+324677010,2513,4723415444,Digital,WWT,ToGo,Registered,32 Oz Soda,Ranch Dip - Large,4 pc Crispy Strips
+417607402,1754,9944971039,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Add 5 Spicy Wings,2 pc Crispy Strips
+894858320,1247,3937681639,Digital,WWT,ToGo,Registered,Large Buffalo Fries,4 pc Crispy Strips,32 Oz Soda
+332236134,1070,2592912829,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Regular Buffalo Fries,10 pc Spicy Wings
+64414656,2786,9561668311,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Grilled Wings,Veggie Sticks Spicy
+424828786,4065,5080199919,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Fried Corn - Large,Large Fruit Punch
+646703146,2513,7723429852,Digital,WWT,ToGo,Registered,Flavor Platter,Fried Corn - Regular,Blue Cheese Dip - Regular
+549872455,2517,4446614197,Digital,WWT,Delivery,Registered,15 pc Grilled Wings,2 pc Crispy Strips,Voodoo Fries - Regular
+968736911,4094,9468148005,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,32 Oz Soda,Regular Buffalo Fries
+550649966,1905,4694297946,Digital,WWT,ToGo,Registered,Large Veggie Sticks Spicy,10 pc Grilled Wings,Ranch Dip - Regular
+738683097,1390,3808930561,Digital,WWT,ToGo,Guest,15 pc Grilled Wings,Large Buffalo Fries,Add 5 Grilled Wings
+203712731,2734,6982374850,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,Ranch Dip - Regular,10 pc Grilled Wings
+681198631,1249,8468810171,Digital,WWT,Delivery,Registered,6 pc Spicy Wings Combo,Chicken Sub,Regular Buffalo Fries
+182944548,4750,8601280066,Digital,WWT,ToGo,Registered,Large Buffalo Fries,10 pc Spicy Wings,Ranch Dip - Regular
+833663416,4065,1050374471,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,2 pc Crispy Strips,Ranch Dip - Large
+547203527,4595,9941791640,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Voodoo Fries - Large,6 pc Spicy Wings Combo
+937567045,2786,7345676210,Digital,WWT,ToGo,Guest,4 pc Crispy Strips,Ranch Dip - Regular,Add 5 Grilled Wings
+964798610,949,7828339133,Digital,WWT,ToGo,Guest,Cheese Dip - Regular,Fried Corn - Large,Flavor Platter
+289675025,1390,8384181700,Digital,WWT,ToGo,Registered,Fried Corn - Large,40 pc Family Mixed Wings,3 pc Crispy Strips Combo
+707414765,2156,5514030001,Digital,WWT,Delivery,Registered,Add 5 Spicy Wings,Voodoo Fries - Large,Large Fruit Punch
+175417408,2517,4332647365,Digital,WWT,ToGo,Guest,32 Oz Soda,6 pc Strips Meal for 2,2 pc Crispy Strips
+486674052,857,8869495661,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Cheese Dip - Regular,50 pc Family Mixed Wings
+38437793,2517,9943402234,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Add 5 Spicy Wings,Ranch Dip - Regular
+671222138,1754,9578744084,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,15 pc Spicy Wings,10 pc Spicy Wings Combo
+206164086,1905,4013390863,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,32 Oz Soda,Ranch Dip - Regular
+267268077,820,5528614490,Digital,WWT,ToGo,Guest,32 Oz Soda,Large Buffalo Fries,10 pc Spicy Wings
+309838220,2513,2615222419,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,Ranch Dip - Large,Fried Corn - Regular
+538487373,1754,6763597486,Digital,WWT,ToGo,Registered,Large Buffalo Fries,10 pc Grilled Wings,Ranch Dip - Regular
+58206613,4541,148192143,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,6 pc Grilled Wings Combo,2 pc Crispy Strips
+738207544,4094,7724635245,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,Regular Buffalo Fries,2 pc Crispy Strips
+44094108,2154,9243918922,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,10 pc Spicy Wings Combo,Dipping Sauce
+409575901,1070,7399106759,Digital,WWT,Delivery,Registered,2 pc Crispy Strips,Large Veggie Sticks Spicy,20pc Spicy Feast Deal
+565257723,2513,8185688693,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,8 pc Crispy Strips Combo,Regular Buffalo Fries
+202271193,1070,9075861896,Digital,WWT,Delivery,Registered,25 pc Game Day Pack,Large Veggie Sticks Spicy,Ranch Dip - Large
+329166088,4065,5067184636,Digital,WWT,ToGo,Registered,Ranch Dip - Large,20pc Spicy Feast Deal,Carrot Sticks
+399504286,1765,3284587094,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Regular Buffalo Fries,Chicken Sub
+260947911,3989,1326802209,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,8 pc Grilled Wings Combo,Regular Buffalo Fries
+793137869,801,3883173125,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Regular Buffalo Fries,10 pc Spicy Wings
+131251895,1754,5360506183,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,6 pc Spicy Wings Combo,Chicken Sub
+360860655,1731,6626762887,Digital,WWT,ToGo,Registered,20 Oz Soda,6 pc Grilled Wings Combo,Fried Corn - Regular
+755160508,4915,9205073417,Digital,WWT,ToGo,Guest,Veggie Sticks Spicy,Regular Buffalo Fries,Dipping Sauce
+918912101,4094,2563015607,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Add 5 Spicy Wings,Ranch Dip - Regular
+13241760,2156,3199758831,Digital,WWT,Delivery,Registered,15 pc Crispy Strips,Large Buffalo Fries,Ranch Dip - Large
+760968123,820,887209725,Digital,WWT,ToGo,Registered,8 pc Spicy Wings Combo,10 pc Grilled Wings Combo,20 Oz Soda
+569313467,400,5109343398,Digital,WWT,ToGo,Registered,Fried Corn - Regular,15 pc Spicy Wings,20pc Spicy Feast Deal
+217982168,1731,7641307244,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,8 pc Spicy Wings Combo,Fried Corn - Regular
+393448697,1249,6005522854,Digital,WWT,ToGo,Guest,Cheese Fries - Large,10 pc Spicy Wings,15 pc Spicy Wings
+534545807,2786,5182903773,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,Ranch Dip - Regular,10 pc Grilled Wings Combo
+883715525,1754,1850333276,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,20pc Spicy Feast Deal,Dipping Sauce
+104870240,2786,467100205,Digital,WWT,Delivery,Registered,8 pc Spicy Wings Combo,20pc Spicy Feast Deal,20 Oz Soda
+432587169,4391,88764602,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,Large Buffalo Fries,Blue Cheese Dip - Large
+892008507,1249,1614891405,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,Blue Cheese Dip - Regular,2 pc Crispy Strips
+338138769,4391,3239632003,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,10 pc Spicy Wings Combo,6 pc Spicy Wings Combo
+479612742,949,7484730548,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,Chicken Sub Combo,2 pc Crispy Strips
+42614332,4065,7463668969,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Ranch Dip - Large,10 pc Grilled Wings Combo
+744067176,4541,8426959494,Digital,WWT,ToGo,Guest,10 pc Grilled Wings Combo,Regular Buffalo Fries,Ranch Dip - Regular
+459375806,857,8328269437,Digital,WWT,ToGo,Guest,2 pc Crispy Strips,Large Buffalo Fries,Cheese Dip - Large
+422449973,822,1201693840,Digital,WWT,ToGo,Registered,20 Oz Soda,6 pc Strips Meal for 2,10 pc Grilled Wings
+716388952,2513,2453493843,Digital,WWT,Delivery,Registered,10 pc Grilled Wings Combo,7 pc Crispy Strips,Ranch Dip - Regular
+432592552,857,3414753082,Digital,WWT,Delivery,Registered,Fried Corn - Regular,Ranch Dip - Regular,Triple Chocolate Cake
+920562649,400,2333712730,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Ranch Dip - Regular,Add 5 Spicy Wings
+593202879,2517,3149103965,Digital,WWT,ToGo,Guest,Large Buffalo Fries,25 pc Game Day Pack,Add 5 Spicy Wings
+669804817,2315,3336849433,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,Veggie Sticks Spicy,Chicken Sub Combo
+345062584,2156,7653407549,Digital,WWT,Delivery,Registered,8 pc Grilled Wings Combo,Ranch Dip - Regular,10 pc Grilled Wings
+438286479,1390,9721237453,Digital,WWT,Delivery,Registered,30 pc Family Grilled Wings,Chicken Sub,Cheese Fries - Regular
+951629460,801,2549934521,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,Regular Buffalo Fries,10 pc Grilled Wings Combo
+374285995,3302,6962136703,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20pc Spicy Feast Deal,10 pc Spicy Wings
+97444470,1070,2880422375,Digital,WWT,ToGo,Registered,8 pc Spicy Wings Combo,10 pc Grilled Wings Combo,10 pc Spicy Wings Combo
+536311416,2517,2019851123,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,Ranch Dip - Regular,Regular Buffalo Fries
+10633371,2517,7494287673,Digital,WWT,ToGo,Registered,20 Oz Soda,Ranch Dip - Regular,15 pc Spicy Wings
+631328400,2513,8239130646,Digital,WWT,ToGo,Registered,50 pc Family Grilled Wings,2 pc Crispy Strips,Large Buffalo Fries
+953137851,3989,7912691382,Digital,WWT,Delivery,Registered,Chicken Sub,32 Oz Soda,7 pc Crispy Strips
+443182791,4094,3861309319,Digital,WWT,ToGo,Registered,Large Buffalo Fries,20 pc Spicy Wings,Carrot Sticks
+664695918,2513,5126254748,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Add 5 Spicy Wings,25 pc Game Day Pack
+95247989,2734,7126607717,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Cheese Fries - Regular,Ranch Dip - Large
+61304427,1249,5383026715,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,32 Oz Soda,Cheese Fries - Regular
+810367546,2154,289936185,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Regular Buffalo Fries,Veggie Sticks Spicy
+482383700,1765,9526730164,Digital,WWT,ToGo,Registered,Large Buffalo Fries,8 pc Crispy Strips Combo,Cheese Dip - Regular
+974916653,3989,6253220378,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,2 pc Crispy Strips,8 pc Grilled Wings Combo
+58890618,2734,9032607052,Digital,WWT,ToGo,Registered,5 pc Crispy Strips Combo,3 pc Crispy Strips Combo,10 pc Spicy Wings
+149990005,1070,3035057133,Digital,WWT,ToGo,Registered,Veggie Sticks,Blue Cheese Dip - Regular,8 pc Grilled Wings Combo
+955920643,1070,9543331429,Digital,WWT,ToGo,Registered,Voodoo Fries - Regular,15 pc Grilled Wings,6 pc Grilled Wings Combo
+689303580,1731,2218756681,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,8 pc Spicy Wings Combo,3 pc Crispy Strips Combo
+140578576,4391,2228460270,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,Large Buffalo Fries,10 pc Grilled Wings Combo
+393910074,3989,9543859037,Digital,WWT,Delivery,Guest,20 pc Grilled Wings,Ranch Dip - Regular,Regular Buffalo Fries
+224267046,1161,3878460943,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Chicken Sub,10 pc Grilled Wings Combo
+385530207,822,4855291706,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,4 pc Crispy Strips,Ranch Dip - Regular
+99823967,4094,3267204473,Digital,WWT,Delivery,Registered,Chicken Sub Combo,Ranch Dip - Regular,Veggie Sticks Spicy
+225372624,1754,27104138,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Large Buffalo Fries,15 pc Mixed Wings
+847794207,2513,7813027761,Digital,WWT,ToGo,Registered,20 pc Spicy Wings,Regular Buffalo Fries,20 pc Grilled Wings
+953934621,2156,18776580,Digital,WWT,ToGo,Registered,Dipping Sauce,6 pc Grilled Wings Combo,5 pc Crispy Strips Combo
+633780213,1390,6133050031,Digital,WWT,Delivery,Guest,10 pc Spicy Wings,Legendary Feast Bundle,Blue Cheese Dip - Regular
+12674273,266,1335627845,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Large Fruit Punch,10 pc Spicy Wings
+289882192,430,886184725,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,Large Buffalo Fries,15 pc Spicy Wings
+484176499,2517,4079870250,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Triple Chocolate Cake,Large Fruit Punch
+34201489,857,7495555121,Digital,WWT,ToGo,Registered,Fried Corn - Regular,Regular Buffalo Fries,20 Oz Soda
+254041029,2786,1981957958,Digital,WWT,Delivery,Registered,2 pc Crispy Strips,Voodoo Fries - Large,Ranch Dip - Regular
+115048047,1731,3532465953,Digital,WWT,ToGo,Registered,Fried Corn - Regular,8 pc Mixed Wings Combo,8 pc Grilled Wings Combo
+470830706,1754,4003495044,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,10 pc Grilled Wings,10 pc Spicy Wings
+499447265,4154,200367828,Digital,WWT,Delivery,Registered,7 pc Crispy Strips,Fried Corn - Regular,Large Fruit Punch
+58294058,2315,7974551519,Digital,WWT,ToGo,Registered,Large Veggie Sticks Spicy,10 pc Grilled Wings,10 pc Grilled Wings Combo
+114857903,2249,1583855891,Digital,WWT,ToGo,Guest,2 pc Crispy Strips,Ranch Dip - Regular,Chicken Sub Combo
+649632078,4915,9372715967,Digital,WWT,ToGo,Guest,25 pc Game Day Pack,Ranch Dip - Large,10 pc Spicy Wings
+207565621,1731,1314642807,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Regular Buffalo Fries,Ranch Dip - Regular
+732962932,266,2865805634,Digital,WWT,ToGo,Registered,Cheese Dip - Regular,4 pc Crispy Strips,10 pc Mixed Wings Combo
+4094095,1765,5617228814,Digital,WWT,ToGo,Registered,32 Oz Soda,15 pc Spicy Wings,8 pc Grilled Wings Combo
+306164952,4391,5425933078,Digital,WWT,Delivery,Registered,20pc Spicy Feast Deal,Ranch Dip - Large,32 Oz Soda
+419091636,2513,3590087409,Digital,WWT,ToGo,Guest,Ranch Dip - Regular,20 pc Grilled Wings,Regular Buffalo Fries
+551078661,4541,5934553009,Digital,WWT,Delivery,Registered,32 Oz Soda,Ranch Dip - Regular,20pc Spicy Feast Deal
+998888304,1249,3267095901,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Ranch Dip - Regular,10 pc Spicy Wings
+592779131,2154,436976608,Digital,WWT,ToGo,Registered,Flavor Platter,Honey Mustard Dip - Regular,Large Buffalo Fries
+61392693,2513,7726011753,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,Ranch Dip - Regular,Large Buffalo Fries
+600099766,2513,9758880014,Digital,WWT,ToGo,Registered,Cheese Fries - Regular,Add 5 Grilled Wings,20 pc Grilled Wings
+585127757,2249,3479105977,Digital,WWT,Delivery,Registered,2 pc Crispy Strips,50 pc Family Grilled Wings,Blue Cheese Dip - Regular
+315872883,2786,9997036111,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,Regular Buffalo Fries,6 pc Spicy Wings Combo
+582443666,1731,7050848622,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,6 pc Spicy Wings Combo,8 pc Spicy Wings Combo
+453177201,820,5110319953,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Buffalo Fries,Veggie Sticks
+413639953,801,7661948713,Digital,WWT,ToGo,Registered,20 Oz Soda,4 pc Crispy Strips,Ranch Dip - Large
+226625217,2513,2437964046,Digital,WWT,ToGo,Registered,Chicken Sub,Ranch Dip - Regular,Voodoo Fries - Regular
+851865361,1070,9758065139,Digital,WWT,ToGo,Guest,Voodoo Fries - Regular,Add 5 Grilled Wings,Regular Buffalo Fries
+102254555,1249,2969061832,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,Dipping Sauce,10 pc Spicy Wings
+774777520,949,7253572628,Digital,WWT,ToGo,Registered,7 pc Crispy Strips,Ranch Dip - Large,Regular Buffalo Fries
+613517459,2513,7701256547,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,10 pc Spicy Wings Combo,Ranch Dip - Regular
+39120603,4065,2128238633,Digital,WWT,ToGo,Registered,6 pc Strips Meal for 2,6 pc Grilled Wings Combo,3 pc Crispy Strips Combo
+892801083,4094,8102795135,Digital,WWT,ToGo,Registered,Chicken Sub,Ranch Dip - Large,2 pc Crispy Strips
+325413043,400,8255233180,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,6 pc Grilled Wings Combo,Veggie Sticks Spicy
+880912854,949,504997448,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20pc Spicy Feast Deal,15 pc Grilled Wings
+826216322,2734,654242816,Digital,WWT,ToGo,Registered,Chicken Sub Combo,Regular Buffalo Fries,2 pc Crispy Strips
+775405733,801,8606917174,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Ranch Dip - Large,Flavor Platter
+651773378,4541,9942204227,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,Add 5 Spicy Wings,Regular Buffalo Fries
+319383187,1249,4549933767,Digital,WWT,Delivery,Registered,Veggie Sticks Spicy,Add 5 Spicy Wings,32 Oz Soda
+613098428,4094,100707875,Digital,WWT,ToGo,Registered,Add 5 Grilled Wings,Ranch Dip - Regular,32 Oz Soda
+207438648,949,7752535202,Digital,WWT,ToGo,Registered,Voodoo Fries - Regular,15 pc Grilled Wings,20pc Spicy Feast Deal
+980677670,1731,2338969583,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,Chicken Sub,Honey Mustard Dip - Regular
+786217728,4154,6264979153,Digital,WWT,ToGo,Guest,10 pc Grilled Wings Combo,2 pc Crispy Strips,Honey Mustard Dip - Regular
+495899098,1731,5300940866,Digital,WWT,Delivery,Registered,Fried Corn - Regular,Ranch Dip - Regular,6 pc Grilled Wings Combo
+561885262,820,7548883793,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,8 pc Spicy Wings Combo,Fried Corn - Regular
+318802957,4595,7931336805,Digital,WWT,Delivery,Registered,Regular Buffalo Fries,Add 5 Spicy Wings,Ranch Dip - Regular
+979283408,1161,6859778504,Digital,WWT,ToGo,Registered,Blue Cheese Dip - Large,6 pc Spicy Wings Combo,10 pc Grilled Wings
+773016220,4541,6161303699,Digital,WWT,ToGo,Registered,15 pc Spicy Wings,10 pc Grilled Wings Combo,Regular Buffalo Fries
+904317520,2315,2582945416,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,Ranch Dip - Regular,Add 5 Spicy Wings
+316003435,1070,6771265729,Digital,WWT,Delivery,Registered,Large Buffalo Fries,Ranch Dip - Large,15 pc Spicy Wings
+234769976,4750,5861180636,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,10 pc Grilled Wings Combo,Regular Buffalo Fries
+675858813,2154,4646163496,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,Flavor Platter Grilled,32 Oz Soda
+588120401,1731,7975469058,Digital,WWT,ToGo,Guest,Ranch Dip - Large,7 pc Crispy Strips,Large Buffalo Fries
+835237849,1754,5871015600,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Chicken Sub Combo,2 pc Crispy Strips
+644858683,1913,7731027861,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,Fried Corn - Regular,Ranch Dip - Regular
+558379701,1419,6964711185,Digital,WWT,ToGo,Registered,Voodoo Fries - Regular,Ranch Dip - Regular,10 pc Spicy Wings
+201614230,1249,3232224117,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,10 pc Grilled Wings,Fried Corn - Regular
+628321679,4065,5290320068,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Regular Buffalo Fries,20pc Spicy Feast Deal
+863412729,820,6903757839,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,Ranch Dip - Regular,Large Buffalo Fries
+15280045,2315,1335999970,Digital,WWT,ToGo,Registered,Ranch Dip - Large,10 pc Grilled Wings,Regular Buffalo Fries
+187509020,4541,3126638899,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Large Veggie Sticks Spicy,10 pc Grilled Wings Combo
+796345066,1161,8314124932,Digital,WWT,ToGo,Registered,30 pc Family Grilled Wings,Bottled Beverage,Voodoo Fries - Large
+372830728,1731,9037830847,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Ranch Dip - Regular,Chicken Sub Combo
+982571154,4915,4018471819,Digital,WWT,ToGo,Registered,Voodoo Fries - Regular,Ranch Dip - Regular,15 pc Spicy Wings
+537637808,1247,3067951623,Digital,WWT,ToGo,Registered,Triple Chocolate Cake,Ranch Dip - Regular,10 pc Spicy Wings
+349120107,3989,8064804863,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,5 pc Crispy Strips Combo,6 pc Spicy Wings Combo
+956921041,949,3521923246,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Regular Buffalo Fries,2 pc Crispy Strips
+466904802,4065,582475633,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Ranch Dip - Large,10 pc Grilled Wings
+295533231,2154,364058812,Digital,WWT,ToGo,Guest,20 Oz Soda,Regular Buffalo Fries,4 pc Crispy Strips
+454082373,1070,2228417806,Digital,WWT,ToGo,Guest,Add 5 Spicy Wings,Large Buffalo Fries,Add 5 Grilled Wings
+832505656,4094,1288443627,Digital,WWT,ToGo,Guest,6 pc Grilled Wings Combo,Dipping Sauce,10 pc Grilled Wings Combo
+185930917,2513,2328284131,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,Cheese Dip - Medium,6 pc Spicy Wings Combo
+959348163,4094,3230242008,Digital,WWT,Delivery,Registered,15 pc Grilled Wings,Add 5 Grilled Wings,Veggie Sticks
+201303452,822,8418896892,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,15 pc Spicy Wings,25 pc Game Day Pack
+621527888,822,1169552220,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,10 pc Grilled Wings,Chicken Sub Combo
+509600858,2513,3984156844,Digital,WWT,ToGo,Registered,Carrot Sticks,6 pc Spicy Wings Combo,Ranch Dip - Regular
+992317533,1161,3178637520,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,2 pc Crispy Strips,Chicken Sub Combo
+224023134,1905,1506149665,Digital,WWT,ToGo,Registered,Ranch Dip - Large,Fried Corn - Regular,4 pc Crispy Strips
+143141042,4094,4083250014,Digital,WWT,ToGo,Guest,Blue Cheese Dip - Regular,Add 5 Spicy Wings,6 pc Grilled Wings Combo
+956181742,949,3191100978,Digital,WWT,ToGo,Registered,10 pc Spicy Wings Combo,8 pc Spicy Wings Combo,Ranch Dip - Large
+643556151,1905,1125870929,Digital,WWT,ToGo,Registered,Fried Corn - Regular,3 Strips Lunch,Ranch Dip - Regular
+908925685,4541,5518487619,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Voodoo Fries - Regular,Ranch Dip - Regular
+461528687,2154,2695669964,Digital,WWT,ToGo,Registered,Blue Cheese Dip - Regular,8 pc Spicy Wings Combo,3 pc Crispy Strips Combo
+771427440,2156,3481824376,Digital,WWT,ToGo,Registered,6 pc Spicy Wings Combo,Ranch Dip - Regular,8 pc Grilled Wings Combo
+36758074,3302,6700836606,Digital,WWT,ToGo,Registered,Add 5 Spicy Wings,4 pc Crispy Strips,10 pc Spicy Wings Combo
+489864061,430,8104159505,Digital,WWT,ToGo,Guest,Large Buffalo Fries,10 pc Spicy Wings,Blue Cheese Dip - Regular
+869215789,4595,6217000779,Digital,WWT,ToGo,Guest,Add 5 Spicy Wings,15 pc Grilled Wings Combo,Ranch Dip - Regular
+668766563,820,4663389596,Digital,WWT,ToGo,Registered,Ranch Dip - Large,4 pc Crispy Strips,20pc Spicy Feast Deal
+188866032,3989,4596703393,Digital,WWT,Delivery,Registered,30 pc Grilled Wings,Veggie Sticks,4 pc Crispy Strips
+579796478,949,754466,Digital,WWT,ToGo,Registered,Add 5 Grilled Wings,Chicken Sub Combo,10 pc Grilled Wings
+3278274,4154,8502366372,Digital,WWT,Delivery,Registered,20pc Spicy Feast Deal,Veggie Sticks,10 pc Grilled Wings
+447336467,1161,813605760,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,Triple Chocolate Cake,10 pc Spicy Wings Combo
+470770942,266,7688986900,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,6 pc Grilled Wings Combo,Chicken Sub
+466816276,2513,8987301317,Digital,WWT,Delivery,Registered,8 pc Grilled Wings Combo,Add 5 Grilled Wings,Veggie Sticks Spicy
+455532372,3989,4930451767,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Add 5 Grilled Wings,10 pc Spicy Wings
+477623891,1249,3004367422,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,2 pc Crispy Strips,6 pc Grilled Wings Combo
+989373485,1161,7349043672,Digital,WWT,ToGo,Registered,15 pc Grilled Wings Combo,Ranch Dip - Large,4 pc Crispy Strips
+321241436,1731,9430655543,Digital,WWT,ToGo,Guest,10 pc Grilled Wings,Ranch Dip - Regular,Triple Chocolate Cake
+89869785,949,7070938576,Digital,WWT,ToGo,Registered,Large Veggie Sticks Spicy,100 pc Grilled Wings,Large Buffalo Fries
+532024877,266,6649206674,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Fried Corn - Large,Ranch Dip - Large
+531301037,4094,5023345932,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Chicken Sub,Ranch Dip - Large
+74869694,949,6515651298,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Chicken Sub Combo,Add 5 Grilled Wings
+457051743,1913,9638975026,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,Chicken Sub,Regular Buffalo Fries
+921102716,857,7063681070,Digital,WWT,ToGo,Registered,Add 5 Grilled Wings,Ranch Dip - Regular,8 pc Mixed Wings Combo
+298157762,1913,3568402181,Digital,WWT,Delivery,Registered,Ranch Dip - Regular,4 pc Crispy Strips,Regular Buffalo Fries
+854699078,949,1993968736,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Ranch Dip - Large,30 pc Spicy Wings
+976936767,4750,3734776068,Digital,WWT,ToGo,Registered,8 pc Grilled Wings Combo,6 pc Grilled Wings Combo,10 pc Grilled Wings Combo
+673522487,400,8717250067,Digital,WWT,ToGo,Guest,Add 5 Spicy Wings,2 pc Crispy Strips,20pc Spicy Feast Deal
+921428338,822,7694666875,Digital,WWT,ToGo,Registered,20pc Spicy Feast Deal,20 Oz Soda,Ranch Dip - Large
+490824729,1731,7521247025,Digital,WWT,ToGo,Registered,6 pc Grilled Wings Combo,Ranch Dip - Regular,2 pc Crispy Strips
+328652227,1161,5003789272,Digital,WWT,Delivery,Registered,6 pc Spicy Wings Combo,Ranch Dip - Regular,6 pc Grilled Wings Combo
+644994268,1247,7237130974,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,6 pc Grilled Wings Combo,Large Buffalo Fries
+804888020,3302,8847253260,Digital,WWT,ToGo,Registered,30 pc Family Mixed Wings,Fried Corn - Regular,2 pc Crispy Strips
+980349682,1731,2660543173,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,Ranch Dip - Large,30 pc Mixed Wings
+649576579,1905,6219663862,Digital,WWT,ToGo,Registered,4 pc Crispy Strips,8 pc Mixed Wings Combo,Ranch Dip - Regular
+830846441,1070,3553842011,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,8 pc Grilled Wings Combo,2 pc Crispy Strips
+305663291,4154,7139756497,Digital,WWT,ToGo,Registered,10 pc Grilled Wings,Chicken Sub Combo,Add 5 Spicy Wings
+892084563,4065,8800574599,Digital,WWT,ToGo,Guest,Add 5 Spicy Wings,Ranch Dip - Regular,Chicken Sub Combo
+430033350,4750,207570796,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,20 pc Grilled Wings,Large Buffalo Fries
+912280403,822,5112384203,Digital,WWT,ToGo,Registered,50 pc Family Grilled Wings,Add 5 Spicy Wings,50 pc Family Spicy Wings
+23776024,4541,3423105195,Digital,WWT,ToGo,Registered,Fried Corn - Large,Large Buffalo Fries,Ranch Dip - Regular
+220743169,857,3708002454,Digital,WWT,ToGo,Registered,50 pc Grilled Wings,8 pc Grilled Wings Combo,Large Buffalo Fries
+756957513,4065,7158018434,Digital,WWT,ToGo,Registered,3 pc Crispy Strips Combo,Chicken Sub,30 pc Family Grilled Wings
+298779248,4915,4907599393,Digital,WWT,ToGo,Registered,Dipping Sauce,10 pc Grilled Wings Combo,Chicken Sub Combo
+338053653,3989,6111921688,Digital,WWT,ToGo,Guest,Dipping Sauce,6 pc Spicy Wings Combo,10 pc Grilled Wings
+249975012,949,5559459151,Digital,WWT,ToGo,Registered,75 pc Mixed Wings,Large Veggie Sticks Spicy,Ranch Dip - Large
+971762094,1765,7114189708,Digital,WWT,ToGo,Guest,Flavor Platter,15 pc Grilled Wings,Ranch Dip - Regular
+403747100,1070,5831876998,Digital,WWT,Delivery,Registered,Large Buffalo Fries,30 pc Grilled Wings,2 pc Crispy Strips
+9625702,1247,6823197622,Digital,WWT,ToGo,Registered,10 pc Spicy Wings Combo,20 Oz Soda,Ranch Dip - Regular
+707627671,1419,6389477181,Digital,WWT,ToGo,Registered,Blue Cheese Dip - Regular,10 pc Mixed Wings Combo,7 pc Crispy Strips
+162827602,2154,2648256571,Digital,WWT,Delivery,Guest,10 pc Spicy Wings,10 pc Mixed Wings,Ranch Dip - Regular
+805293667,4970,9902014732,Digital,WWT,ToGo,Guest,Chicken Sub Combo,Chicken Sub,Ranch Dip - Regular
+613701114,4094,5064032494,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,8 pc Grilled Wings Combo,20pc Spicy Feast Deal
+862105830,2513,9211205202,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Fried Corn - Large,Veggie Sticks Spicy
+12439838,2315,8937547304,Digital,WWT,ToGo,Registered,15 pc Grilled Wings,Flavor Platter,Ranch Dip - Regular
+923816275,1754,4339324424,Digital,WWT,ToGo,Registered,20 pc Mixed Wings,Regular Buffalo Fries,3 pc Crispy Strips Combo
+396032493,2786,7120969695,Digital,WWT,ToGo,Registered,30 pc Grilled Wings,Regular Buffalo Fries,Ranch Dip - Large
+528875799,2786,518249569,Digital,WWT,ToGo,Registered,7 pc Crispy Strips,6 pc Grilled Wings Combo,Regular Buffalo Fries
+259220127,1913,5210918158,Digital,WWT,ToGo,Guest,8 pc Grilled Wings Combo,Add 5 Spicy Wings,Ranch Dip - Regular
+10057768,4094,6136689813,Digital,WWT,Delivery,Guest,Honey Mustard Dip - Large,15 pc Spicy Wings,Chicken Sub
+217697136,2249,4690656538,Digital,WWT,ToGo,Registered,10 pc Spicy Wings,Fried Corn - Regular,Hot Honey Strips 3pc
+389026197,4750,4779418228,Digital,WWT,ToGo,Registered,Veggie Sticks Spicy,10 pc Grilled Wings Combo,10 pc Spicy Wings
+526688529,2156,1785474447,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Veggie Sticks Spicy,2 pc Crispy Strips
+814266685,1070,2672940831,Digital,WWT,ToGo,Registered,10 pc Grilled Wings Combo,3 pc Crispy Strips Combo,Chicken Sub
+926363931,4915,5365141642,Digital,WWT,ToGo,Guest,10 pc Spicy Wings,Voodoo Fries - Regular,Ranch Dip - Regular
+401693034,857,3719443685,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Blue Cheese Dip - Regular,5 pc Crispy Strips Combo
+704599158,801,9664042351,Digital,WWT,Delivery,Registered,4 pc Crispy Strips,Ranch Dip - Large,20 Oz Soda
+98411953,4094,4591227581,Digital,WWT,ToGo,Registered,Cheese Dip - Medium,8 pc Grilled Wings Combo,6 pc Spicy Wings Combo
+303243091,4750,6697547638,Digital,WWT,ToGo,Registered,Dipping Sauce,Large Buffalo Fries,Veggie Sticks Spicy
+510701340,1390,3066847925,Digital,WWT,ToGo,Registered,Ranch Dip - Regular,Large Buffalo Fries,Fried Corn - Large
+929818566,4750,1183994281,Digital,WWT,ToGo,Guest,Add 5 Spicy Wings,Ranch Dip - Regular,Chicken Sub Combo
+257820405,266,716660539,Digital,WWT,ToGo,Registered,6 pc Mixed Wings Combo,6 pc Spicy Wings Combo,6 pc Grilled Wings Combo
+465728024,1070,6629051234,Digital,WWT,ToGo,Registered,Regular Buffalo Fries,10 pc Grilled Wings Combo,20pc Spicy Feast Deal
+426291089,4541,9876206587,Digital,WWT,ToGo,Registered,Chicken Sub,Flavor Platter,Large Fruit Punch
+143729848,430,4578851950,Digital,WWT,ToGo,Registered,Large Buffalo Fries,Chicken Sub Combo,Ranch Dip - Regular
+865596343,4541,1099699387,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,32 Oz Soda,20pc Spicy Feast Deal
+202529584,1765,2488425435,Digital,WWT,ToGo,Registered,2 pc Crispy Strips,Regular Buffalo Fries,6 pc Strips Meal for 2
+984945545,4915,3807612147,Digital,WWT,ToGo,Registered,20 pc Grilled Wings,Ranch Dip - Regular,Regular Buffalo Fries
+669937324,1905,1324672225,Digital,WWT,ToGo,Guest,Blue Cheese Dip - Regular,10 pc Spicy Wings,15 pc Grilled Wings
+43308124,2786,3224322137,Digital,WWT,ToGo,Registered,15 pc Grilled Wings,Ranch Dip - Regular,10 pc Grilled Wings Combo
+893883984,1905,2080439382,Digital,WWT,ToGo,Guest,Veggie Sticks Spicy,Ranch Dip - Regular,Add 5 Spicy Wings
+199551661,4915,5790578362,Digital,WWT,Delivery,Registered,Chicken Sub Combo,10 pc Grilled Wings,Chicken Sub
+324907688,1161,371107248,Digital,WWT,ToGo,Guest,10 pc Grilled Wings Combo,Veggie Sticks Spicy,8 pc Grilled Wings Combo
+688871063,949,7519184133,Digital,WWT,ToGo,Registered,Fried Corn - Regular,Flavor Platter,Ranch Dip - Regular
+529892223,4750,8800902863,Digital,WWT,Delivery,Registered,Regular Buffalo Fries,Ranch Dip - Regular,Legendary Feast Bundle
+986902731,1731,2611475190,Digital,WWT,ToGo,Guest,Regular Buffalo Fries,Ranch Dip - Regular,20 pc Spicy Wings
