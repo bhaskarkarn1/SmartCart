@@ -31,7 +31,7 @@ pip install -r requirements.txt
 2. Start the app:
 
 ```bash
-streamlit run app/streamlit_app.py
+streamlit run streamlit_app.py
 ```
 
 ## Deploy

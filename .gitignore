@@ -4,9 +4,7 @@
 venv/
 __pycache__/
 *.pyc
-*.pkl
 
 # Large local data / outputs
 data/order_data.csv
 artifacts/*.pkl
-

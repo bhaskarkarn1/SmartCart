@@ -11,7 +11,10 @@ import streamlit as st
 # =====================
 #  PATH SETUP
 # =====================
-BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+from pathlib import Path as _Path
+
+_THIS_DIR = _Path(__file__).resolve().parent          # app/
+BASE_DIR = str(_THIS_DIR.parent)                       # project root
 DATA_DIR = os.path.join(BASE_DIR, "data")
 ART_DIR = os.path.join(BASE_DIR, "artifacts")
 
