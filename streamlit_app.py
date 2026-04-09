@@ -126,8 +126,15 @@ TEAM = [
 ]
 
 # ---------------------------------------------------------------------------
-# Load CSS
+# Inject Google Fonts + Load CSS
 # ---------------------------------------------------------------------------
+st.markdown(
+    '<link rel="preconnect" href="https://fonts.googleapis.com">'
+    '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
+    '<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">',
+    unsafe_allow_html=True,
+)
+
 css_path = os.path.join(APP_DIR, "styles.css")
 if os.path.exists(css_path):
     with open(css_path, "r") as f:
@@ -140,7 +147,7 @@ if os.path.exists(css_path):
 st.sidebar.markdown(
     """
     <div class="brand-side">
-      <span class="brand-blue">SmartCart</span>
+      <span class="brand-blue">🍗 SmartCart</span>
     </div>
     """,
     unsafe_allow_html=True,
@@ -221,7 +228,14 @@ def app_brand_title():
 def start_page():
     app_brand_title()
     st.markdown("<h2 class='page-h2'>Welcome</h2>", unsafe_allow_html=True)
-    st.write("Select up to **3 menu items** and get **top-3 recommendations.**")
+    st.markdown(
+        "<p style='text-align:center; color:#64687a; font-size:16px; margin-top:-8px;'>"
+        "Select up to <b>3 menu items</b> and get <b>top-3 personalized recommendations</b>"
+        "</p>",
+        unsafe_allow_html=True,
+    )
+
+    st.write("")  # spacer
 
     try:
         dfs = load_all_csvs()
@@ -237,7 +251,7 @@ def start_page():
     c3.metric("Items", "138")
     c4.metric("Test Rows", f"{len(dfs['test']):,}")
 
-    st.markdown("<hr class='rule'/>", unsafe_allow_html=True)
+    st.write("")  # spacer
     st.markdown(
         """
         <div class="quick-steps">
@@ -403,22 +417,44 @@ def workflow_page():
 
 def about_page():
     app_brand_title()
-    st.markdown(APP_BRAND_LINE)
-    st.markdown("---")
-    st.subheader("Team JaiMataDi")
+    st.markdown("<h2 class='page-h2'>About</h2>", unsafe_allow_html=True)
+
+    st.markdown(
+        "<p style='text-align:center; max-width:700px; margin:0 auto 24px; "
+        "color:#64687a; font-size:15px; line-height:1.7;'>"
+        + APP_BRAND_LINE.replace('\n\n', '<br><br>').replace('**', '<b>').replace('**', '</b>')
+        + "</p>",
+        unsafe_allow_html=True,
+    )
+
+    st.markdown("<hr class='rule'/>", unsafe_allow_html=True)
+    st.markdown("<h3 class='page-h3'>Team JaiMataDi</h3>", unsafe_allow_html=True)
+    st.write("")  # spacer
 
     cols = st.columns(len(TEAM))
     for member, col in zip(TEAM, cols):
         with col:
             photo_path = Path(member["photo"])
             if photo_path.exists():
-                st.image(str(photo_path), width=220, caption=member["name"])
+                st.image(str(photo_path), use_container_width=True)
             else:
                 st.markdown(
                     f'<div class="team-placeholder">Add photo: {photo_path.name}</div>',
                     unsafe_allow_html=True,
                 )
-            st.markdown(f"[LinkedIn]({member['linkedin']})")
+            st.markdown(
+                f"<p style='text-align:center; font-weight:700; font-size:15px; margin:8px 0 4px;'>"
+                f"{member['name']}</p>",
+                unsafe_allow_html=True,
+            )
+            st.markdown(
+                f'<p style="text-align:center;">'
+                f'<a href="{member["linkedin"]}" target="_blank" '
+                f'style="display:inline-block; padding:6px 18px; background:#0a66c2; '
+                f'color:white; border-radius:6px; text-decoration:none; font-size:13px; '
+                f'font-weight:600;">🔗 LinkedIn</a></p>',
+                unsafe_allow_html=True,
+            )
 
 
 # ===================================================================
