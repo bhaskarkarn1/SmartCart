@@ -155,7 +155,7 @@ st.sidebar.markdown(
 )
 
 if os.path.exists(LOGO_PATH):
-    st.sidebar.image(LOGO_PATH, use_container_width=True)
+    st.sidebar.image(LOGO_PATH, use_column_width=True)
 
 page = st.sidebar.radio(
     "Navigation",
@@ -287,7 +287,7 @@ def build_model_page():
     if not os.path.exists(temp_csv):
         st.markdown("### Step 1: Download Order Data")
         st.warning("⚠ `order_data.csv` is missing. Download it first (~50MB compressed).")
-        if st.button("📥 Download order_data.csv", use_container_width=True):
+        if st.button("📥 Download order_data.csv"):
             with st.spinner("⏳ Downloading from Google Drive... please wait."):
                 download_order_csv()
             st.success("✅ Download complete!")
@@ -304,7 +304,7 @@ def build_model_page():
         st.info("ℹ️ Artifacts already exist. Rebuild only if you want to change the sample size.")
 
     sample = st.slider("Sample N Orders", 100_000, 1_400_000, 250_000, 50_000)
-    if st.button("🚀 Build Now", use_container_width=True):
+    if st.button("🚀 Build Now"):
         with st.spinner("🔨 Building co-occurrence matrix... this takes ~30 seconds."):
             _ = prepare_artifacts(sample_n=sample)
         st.success("✅ Model built! Head to **🛒 Menu & Recommendations** to start.")
@@ -351,7 +351,7 @@ def batch_page():
     st.markdown("<p style='text-align:center;'>Runs predictions for test_data_question.csv.</p>", unsafe_allow_html=True)
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
-        if st.button("🚀 Run Batch", use_container_width=True):
+        if st.button("🚀 Run Batch"):
             try:
                 test_path = os.path.join(DATA_DIR, "test_data_question.csv")
                 test_df = pd.read_csv(test_path)
@@ -461,7 +461,7 @@ def about_page():
         with col:
             photo_path = Path(member["photo"])
             if photo_path.exists():
-                st.image(str(photo_path), use_container_width=True)
+                st.image(str(photo_path), use_column_width=True)
             else:
                 st.markdown(
                     f'<div class="team-placeholder">Add photo: {photo_path.name}</div>',
