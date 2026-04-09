@@ -13,8 +13,5 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Large data (downloaded at runtime)
+# Large data (downloaded at runtime via gdown)
 data/order_data.csv
-
-# Generated artifacts (rebuilt on first run)
-artifacts/*.pkl

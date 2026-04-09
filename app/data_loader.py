@@ -30,9 +30,9 @@ def ensure_dirs() -> None:
 # =====================
 #  LOAD CSV DATASETS
 # =====================
-@st.cache_data(show_spinner=True)
+@st.cache_data(show_spinner=False)
 def load_csvs() -> dict[str, pd.DataFrame]:
-    """Safely load all CSVs. Heavy CSV only loads when file exists."""
+    """Load lightweight CSVs. order_data.csv is loaded only if present."""
     dfs: dict[str, pd.DataFrame] = {}
 
     paths = {
@@ -46,26 +46,25 @@ def load_csvs() -> dict[str, pd.DataFrame]:
             raise FileNotFoundError(f"Missing required CSV: {path}")
         dfs[name] = pd.read_csv(path)
 
+    # Heavy CSV — only load when it exists (not on every page)
     temp_csv = os.path.join(DATA_DIR, "order_data.csv")
     if os.path.exists(temp_csv):
         dfs["order"] = pd.read_csv(temp_csv)
     else:
-        st.warning("⚠ order_data.csv not found.\nGo to **Build Model (First Run)** to download it.")
         dfs["order"] = pd.DataFrame()
 
     return dfs
 
 
 def download_order_csv():
-    """Manually download large CSV from Google Drive only when user requests."""
+    """Download large CSV from Google Drive."""
     import gdown
 
     drive_url = "https://drive.google.com/uc?id=1KS3Umzo-sEpi15JLqhfli_F4YRT1JhXN"
     temp_csv = os.path.join(DATA_DIR, "order_data.csv")
-
-    st.warning("⏳ Downloading 1.4M rows... please wait (~5 seconds on Cloud)")
     gdown.download(drive_url, temp_csv, quiet=False)
-    st.success("✅ Download complete!")
+    # Clear the cached CSVs so next load picks up the new file
+    load_csvs.clear()
     return temp_csv
 
 

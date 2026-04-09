@@ -230,7 +230,7 @@ def start_page():
     app_brand_title()
     st.markdown("<h2 class='page-h2'>Welcome</h2>", unsafe_allow_html=True)
     st.markdown(
-        "<p style='text-align:center; color:#64687a; font-size:16px; margin-top:-8px;'>"
+        "<p style='text-align:center; color:#8b8fa3; font-size:16px; margin-top:-8px;'>"
         "Select up to <b>3 menu items</b> and get <b>top-3 personalized recommendations</b>"
         "</p>",
         unsafe_allow_html=True,
@@ -238,19 +238,24 @@ def start_page():
 
     st.write("")  # spacer
 
-    try:
-        dfs = load_all_csvs()
-        if dfs["order"].empty:
-            st.warning("⚠ Large order_data.csv not loaded yet. Go to **Build Model (First Run)** to download it.")
-    except Exception as e:
-        st.error(f"CSV load error: {e}")
-        st.stop()
+    # Show stats without loading the massive order_data.csv
+    order_csv = os.path.join(DATA_DIR, "order_data.csv")
+    order_count = "1,414,410" if os.path.exists(order_csv) else "—"
 
     c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Orders", f"{len(dfs['order']):,}")
-    c2.metric("Customers", f"{len(dfs['customer']):,}")
+    c1.metric("Orders", order_count)
+    c2.metric("Customers", "563,346")
     c3.metric("Items", "138")
-    c4.metric("Test Rows", f"{len(dfs['test']):,}")
+    c4.metric("Test Rows", "1,000")
+
+    # Check readiness
+    art = load_artifact("artifacts.pkl")
+    if art is not None:
+        st.success("✅ Model artifacts loaded. Head to **🛒 Menu & Recommendations** to get suggestions!")
+    elif not os.path.exists(order_csv):
+        st.info("👉 Go to **🧱 Build Model (First Run)** to download data and build the model.")
+    else:
+        st.info("👉 Go to **🧱 Build Model (First Run)** to build the recommendation engine.")
 
     st.write("")  # spacer
     st.markdown(
@@ -269,22 +274,41 @@ def start_page():
 def build_model_page():
     app_brand_title()
     st.markdown("<h2 class='page-h2'>Build Model (First Run)</h2>", unsafe_allow_html=True)
-    st.write("Computes normalized co-occurrence + item tagging and caches artifacts.")
+    st.markdown(
+        "<p style='text-align:center; color:#8b8fa3; font-size:15px;'>"
+        "Downloads order data and builds the recommendation engine."
+        "</p>",
+        unsafe_allow_html=True,
+    )
 
     temp_csv = os.path.join(DATA_DIR, "order_data.csv")
 
+    # Step 1: Download if missing
     if not os.path.exists(temp_csv):
-        st.warning("⚠ order_data.csv is missing. Click below to download it (1.4M rows).")
-        if st.button("📥 Download order_data.csv"):
-            download_order_csv()
-            st.success("File downloaded successfully! Now you can build the model.")
+        st.markdown("### Step 1: Download Order Data")
+        st.warning("⚠ `order_data.csv` is missing. Download it first (~50MB compressed).")
+        if st.button("📥 Download order_data.csv", use_container_width=True):
+            with st.spinner("⏳ Downloading from Google Drive... please wait."):
+                download_order_csv()
+            st.success("✅ Download complete!")
             st.rerun()
+        st.stop()  # Don't show build UI until file exists
+
+    # Step 2: Build artifacts
+    st.markdown("### Step 2: Build Recommendation Model")
+    st.success("✅ `order_data.csv` found!")
+
+    # Check if artifacts already exist
+    existing_art = load_artifact("artifacts.pkl")
+    if existing_art:
+        st.info("ℹ️ Artifacts already exist. Rebuild only if you want to change the sample size.")
 
     sample = st.slider("Sample N Orders", 100_000, 1_400_000, 250_000, 50_000)
-    if st.button("🚀 Build Now"):
-        with st.spinner("Building co-occurrence matrix..."):
+    if st.button("🚀 Build Now", use_container_width=True):
+        with st.spinner("🔨 Building co-occurrence matrix... this takes ~30 seconds."):
             _ = prepare_artifacts(sample_n=sample)
-        st.success("Artifacts saved in `artifacts/artifacts.pkl`")
+        st.success("✅ Model built! Head to **🛒 Menu & Recommendations** to start.")
+        st.balloons()
 
 
 def menu_reco_page():
