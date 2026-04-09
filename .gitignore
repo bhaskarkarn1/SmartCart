@@ -1,10 +1,20 @@
+# OS files
 .DS_Store
+**/.DS_Store
+
+# IDE
 .idea/
+.vscode/
+
+# Python
 .venv/
 venv/
 __pycache__/
 *.pyc
+*.pyo
 
-# Large local data / outputs
+# Large data (downloaded at runtime)
 data/order_data.csv
+
+# Generated artifacts (rebuilt on first run)
 artifacts/*.pkl

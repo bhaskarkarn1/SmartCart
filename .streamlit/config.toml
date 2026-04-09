@@ -1,15 +1,15 @@
 [theme]
-base = "light"
-
-# Brand colors (match SmartCart blue & red highlights)
-primaryColor = "#1f77ff"
-secondaryBackgroundColor = "#f9f9ff"
-
-# Subtle light background (matches gradient top layer)
-backgroundColor = "#ffffff"
-
-# Text color with slightly softened black for better readability
-textColor = "#111111"
-
-# Optional accent tweaks (for hover states, etc.)
+base = "dark"
+primaryColor = "#6366f1"
+backgroundColor = "#0f1117"
+secondaryBackgroundColor = "#1a1c25"
+textColor = "#eaedf3"
 font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
