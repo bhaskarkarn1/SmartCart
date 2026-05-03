@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SmartCart — Personalized Menu Recommendation Engine</title>
+  <meta name="description" content="SmartCart transforms static menu upsells into personalized, data-driven recommendations. Built by Team JaiMataDi for WWT Unravel 2025." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="stylesheet" href="landing.css" />
+</head>
+<body>
+  <!-- ========== NAVBAR ========== -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-container">
+      <a href="#" class="nav-logo">
+        <div class="logo-icon"><i data-lucide="shopping-cart"></i></div>
+        <span>SmartCart</span>
+      </a>
+      <div class="nav-links" id="navLinks">
+        <a href="#features">Features</a>
+        <a href="#how-it-works">How It Works</a>
+        <a href="#performance">Performance</a>
+        <a href="#architecture">Architecture</a>
+        <a href="#team">Team</a>
+      </div>
+      <a href="https://smartcart-hqzl.onrender.com" target="_blank" class="nav-cta">Launch App</a>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+        <i data-lucide="menu"></i>
+      </button>
+    </div>
+  </nav>
+
+  <!-- ========== HERO ========== -->
+  <section class="hero" id="hero">
+    <div class="hero-bg-orbs">
+      <div class="orb orb-1"></div>
+      <div class="orb orb-2"></div>
+      <div class="orb orb-3"></div>
+    </div>
+    <div class="container hero-content">
+      <div class="hero-badge">
+        <i data-lucide="trophy"></i>
+        <span>WWT Unravel 2025 — Team JaiMataDi</span>
+      </div>
+      <h1 class="hero-title">
+        Turn Static Menus into<br />
+        <span class="gradient-text">Smart Recommendations</span>
+      </h1>
+      <p class="hero-subtitle">
+        SmartCart is a personalized, data-driven recommendation engine that transforms upsells across apps, web, and kiosks — improving key metrics by <strong>150%</strong> over baseline.
+      </p>
+      <div class="hero-actions">
+        <a href="https://smartcart-hqzl.onrender.com" target="_blank" class="btn btn-primary">
+          <i data-lucide="rocket"></i> Launch App
+        </a>
+        <a href="#how-it-works" class="btn btn-secondary">
+          <i data-lucide="play-circle"></i> See How It Works
+        </a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat-item">
+          <span class="stat-value" data-target="1414410">0</span>
+          <span class="stat-label">Orders Analyzed</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-value" data-target="563346">0</span>
+          <span class="stat-label">Customers</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-value" data-target="138">0</span>
+          <span class="stat-label">Menu Items</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-value">150%</span>
+          <span class="stat-label">Recall Improvement</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== FEATURES ========== -->
+  <section class="section" id="features">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag"><i data-lucide="sparkles"></i> Capabilities</span>
+        <h2 class="section-title">Everything you need for<br /><span class="gradient-text">intelligent upselling</span></h2>
+        <p class="section-desc">From real-time suggestions to bulk predictions, SmartCart covers the full recommendation pipeline.</p>
+      </div>
+      <div class="features-grid">
+        <div class="feature-card" data-delay="0">
+          <div class="feature-icon icon-indigo"><i data-lucide="mouse-pointer-click"></i></div>
+          <h3>Interactive Recommendations</h3>
+          <p>Select up to 3 menu items and instantly receive top-3 personalized suggestions powered by co-occurrence intelligence.</p>
+        </div>
+        <div class="feature-card" data-delay="1">
+          <div class="feature-icon icon-violet"><i data-lucide="grid-3x3"></i></div>
+          <h3>Co-occurrence Engine</h3>
+          <p>Normalized co-occurrence matrix with type-aware scoring built from 1.4M real transaction records.</p>
+        </div>
+        <div class="feature-card" data-delay="2">
+          <div class="feature-icon icon-rose"><i data-lucide="target"></i></div>
+          <h3>Smart Scoring</h3>
+          <p>Weighted co-scores combined with soft category bias and spicy-aware logic for diverse, relevant picks.</p>
+        </div>
+        <div class="feature-card" data-delay="3">
+          <div class="feature-icon icon-amber"><i data-lucide="file-spreadsheet"></i></div>
+          <h3>Batch Predict</h3>
+          <p>Bulk CSV predictions for 1,000+ test cases in seconds — perfect for offline evaluation and QA.</p>
+        </div>
+        <div class="feature-card" data-delay="4">
+          <div class="feature-icon icon-emerald"><i data-lucide="bar-chart-3"></i></div>
+          <h3>Metrics Dashboard</h3>
+          <p>Item distribution charts, top items by category, and deep-dive analytics at your fingertips.</p>
+        </div>
+        <div class="feature-card" data-delay="5">
+          <div class="feature-icon icon-cyan"><i data-lucide="workflow"></i></div>
+          <h3>Architecture View</h3>
+          <p>Interactive Mermaid flowchart of the entire recommendation pipeline for full transparency.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== HOW IT WORKS ========== -->
+  <section class="section section-alt" id="how-it-works">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag"><i data-lucide="layers"></i> Pipeline</span>
+        <h2 class="section-title">How SmartCart <span class="gradient-text">thinks</span></h2>
+        <p class="section-desc">Six intelligent stages from raw data to personalized top-3 recommendations.</p>
+      </div>
+      <div class="steps-timeline">
+        <div class="step-card">
+          <div class="step-number">01</div>
+          <div class="step-icon"><i data-lucide="database"></i></div>
+          <h3>Data Ingestion</h3>
+          <p>Parses 1.4M order records with JSON-embedded item details from real transaction data.</p>
+        </div>
+        <div class="step-card">
+          <div class="step-number">02</div>
+          <div class="step-icon"><i data-lucide="tags"></i></div>
+          <h3>Item Tagging</h3>
+          <p>Classifies 138 items into main, side, dip, drink, and other categories automatically.</p>
+        </div>
+        <div class="step-card">
+          <div class="step-number">03</div>
+          <div class="step-icon"><i data-lucide="calculator"></i></div>
+          <h3>Co-occurrence Matrix</h3>
+          <p>Computes conditional probability P(j|i) for all item pairs using normalized frequencies.</p>
+        </div>
+        <div class="step-card">
+          <div class="step-number">04</div>
+          <div class="step-icon"><i data-lucide="settings"></i></div>
+          <h3>Scoring Engine</h3>
+          <p>Aggregates co-scores with soft bias for underrepresented categories and spicy-aware bonuses.</p>
+        </div>
+        <div class="step-card">
+          <div class="step-number">05</div>
+          <div class="step-icon"><i data-lucide="filter"></i></div>
+          <h3>Diversity Filter</h3>
+          <p>Ensures max 1 recommendation per type — no duplicate categories in your suggestions.</p>
+        </div>
+        <div class="step-card">
+          <div class="step-number">06</div>
+          <div class="step-icon"><i data-lucide="award"></i></div>
+          <h3>Top-3 Output</h3>
+          <p>Final ranked suggestions using global popularity fallback when co-occurrence data is sparse.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== PERFORMANCE ========== -->
+  <section class="section" id="performance">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag"><i data-lucide="trending-up"></i> Results</span>
+        <h2 class="section-title">Proven <span class="gradient-text">performance gains</span></h2>
+        <p class="section-desc">Head-to-head comparison against the static baseline upsell strategy.</p>
+      </div>
+      <div class="metrics-grid">
+        <div class="metric-card">
+          <div class="metric-header">
+            <i data-lucide="crosshair"></i>
+            <span>Recall@3</span>
+          </div>
+          <div class="metric-bars">
+            <div class="bar-group">
+              <span class="bar-label">Baseline</span>
+              <div class="bar-track"><div class="bar-fill bar-baseline" style="--w:40%"><span>~0.20</span></div></div>
+            </div>
+            <div class="bar-group">
+              <span class="bar-label">SmartCart</span>
+              <div class="bar-track"><div class="bar-fill bar-smart" style="--w:100%"><span>~0.50</span></div></div>
+            </div>
+          </div>
+          <div class="metric-badge">+150%</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-header">
+            <i data-lucide="target"></i>
+            <span>Precision@3</span>
+          </div>
+          <div class="metric-bars">
+            <div class="bar-group">
+              <span class="bar-label">Baseline</span>
+              <div class="bar-track"><div class="bar-fill bar-baseline" style="--w:39%"><span>~0.15</span></div></div>
+            </div>
+            <div class="bar-group">
+              <span class="bar-label">SmartCart</span>
+              <div class="bar-track"><div class="bar-fill bar-smart" style="--w:100%"><span>~0.38</span></div></div>
+            </div>
+          </div>
+          <div class="metric-badge">+153%</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-header">
+            <i data-lucide="check-circle"></i>
+            <span>Top-1 Accuracy</span>
+          </div>
+          <div class="metric-bars">
+            <div class="bar-group">
+              <span class="bar-label">Baseline</span>
+              <div class="bar-track"><div class="bar-fill bar-baseline" style="--w:58%"><span>~0.30</span></div></div>
+            </div>
+            <div class="bar-group">
+              <span class="bar-label">SmartCart</span>
+              <div class="bar-track"><div class="bar-fill bar-smart" style="--w:100%"><span>~0.52</span></div></div>
+            </div>
+          </div>
+          <div class="metric-badge">+73%</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== TECH STACK ========== -->
+  <section class="section section-alt" id="architecture">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag"><i data-lucide="cpu"></i> Stack</span>
+        <h2 class="section-title">Built with <span class="gradient-text">modern tools</span></h2>
+      </div>
+      <div class="tech-grid">
+        <div class="tech-card">
+          <div class="tech-icon"><i data-lucide="layout-dashboard"></i></div>
+          <h4>Streamlit</h4>
+          <p>Frontend</p>
+        </div>
+        <div class="tech-card">
+          <div class="tech-icon"><i data-lucide="code-2"></i></div>
+          <h4>Python</h4>
+          <p>Backend</p>
+        </div>
+        <div class="tech-card">
+          <div class="tech-icon"><i data-lucide="table-2"></i></div>
+          <h4>Pandas</h4>
+          <p>Data Processing</p>
+        </div>
+        <div class="tech-card">
+          <div class="tech-icon"><i data-lucide="sigma"></i></div>
+          <h4>NumPy</h4>
+          <p>Computation</p>
+        </div>
+        <div class="tech-card">
+          <div class="tech-icon"><i data-lucide="cloud"></i></div>
+          <h4>Render</h4>
+          <p>Deployment</p>
+        </div>
+        <div class="tech-card">
+          <div class="tech-icon"><i data-lucide="type"></i></div>
+          <h4>Inter</h4>
+          <p>Typography</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== TEAM ========== -->
+  <section class="section" id="team">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag"><i data-lucide="users"></i> Team</span>
+        <h2 class="section-title">Meet <span class="gradient-text">Team JaiMataDi</span></h2>
+        <p class="section-desc">The builders behind SmartCart.</p>
+      </div>
+      <div class="team-grid">
+        <div class="team-card">
+          <div class="team-avatar">
+            <img src="assets/team/bhaskar.jpg" alt="Bhaskar Ranjan Karn" loading="lazy" />
+          </div>
+          <h3>Bhaskar Ranjan Karn</h3>
+          <a href="https://linkedin.com/in/bhaskar-ranjan-karn/" target="_blank" class="team-link">
+            <i data-lucide="linkedin"></i> LinkedIn
+          </a>
+        </div>
+        <div class="team-card">
+          <div class="team-avatar">
+            <img src="assets/team/astitva.jpg" alt="Astitva" loading="lazy" />
+          </div>
+          <h3>Astitva</h3>
+          <a href="https://linkedin.com/in/astitva-07a338229/" target="_blank" class="team-link">
+            <i data-lucide="linkedin"></i> LinkedIn
+          </a>
+        </div>
+        <div class="team-card">
+          <div class="team-avatar">
+            <img src="assets/team/sanjay.jpg" alt="Sanjay Kumar" loading="lazy" />
+          </div>
+          <h3>Sanjay Kumar</h3>
+          <a href="https://linkedin.com/in/sanjay-kumar-39b73a239/" target="_blank" class="team-link">
+            <i data-lucide="linkedin"></i> LinkedIn
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== FOOTER ========== -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <div class="nav-logo">
+          <div class="logo-icon"><i data-lucide="shopping-cart"></i></div>
+          <span>SmartCart</span>
+        </div>
+        <p>Personalized Menu Recommendation Engine</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/bhaskarkarn1/SmartCart" target="_blank"><i data-lucide="github"></i> GitHub</a>
+        <a href="https://smartcart-hqzl.onrender.com" target="_blank"><i data-lucide="external-link"></i> Live App</a>
+      </div>
+      <div class="footer-copy">
+        &copy; 2025 Team JaiMataDi &middot; WWT Unravel 2025
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Initialize Lucide icons
+    lucide.createIcons();
+
+    // Mobile nav toggle
+    const navToggle = document.getElementById('navToggle');
+    const navLinks = document.getElementById('navLinks');
+    navToggle.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+      const icon = navToggle.querySelector('i');
+      if (navLinks.classList.contains('active')) {
+        icon.setAttribute('data-lucide', 'x');
+      } else {
+        icon.setAttribute('data-lucide', 'menu');
+      }
+      lucide.createIcons();
+    });
+
+    // Close mobile nav on link click
+    navLinks.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        navLinks.classList.remove('active');
+        navToggle.querySelector('i').setAttribute('data-lucide', 'menu');
+        lucide.createIcons();
+      });
+    });
+
+    // Navbar scroll effect
+    window.addEventListener('scroll', () => {
+      document.getElementById('navbar').classList.toggle('scrolled', window.scrollY > 40);
+    });
+
+    // Animate stat counters
+    function animateCounters() {
+      document.querySelectorAll('.stat-value[data-target]').forEach(el => {
+        const target = parseInt(el.dataset.target);
+        const duration = 2000;
+        const start = performance.now();
+        function tick(now) {
+          const elapsed = now - start;
+          const progress = Math.min(elapsed / duration, 1);
+          const eased = 1 - Math.pow(1 - progress, 3);
+          el.textContent = Math.floor(target * eased).toLocaleString();
+          if (progress < 1) requestAnimationFrame(tick);
+        }
+        requestAnimationFrame(tick);
+      });
+    }
+
+    // Intersection Observer for scroll animations
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          if (entry.target.classList.contains('hero-stats')) animateCounters();
+        }
+      });
+    }, { threshold: 0.15 });
+
+    document.querySelectorAll('.feature-card, .step-card, .metric-card, .tech-card, .team-card, .hero-stats, .section-header, .hero-content').forEach(el => {
+      observer.observe(el);
+    });
+
+    // Smooth scroll
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', e => {
+        e.preventDefault();
+        const target = document.querySelector(anchor.getAttribute('href'));
+        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    });
+
+    // Animate bars on visible
+    const barObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.querySelectorAll('.bar-fill').forEach(bar => {
+            bar.style.width = bar.style.getPropertyValue('--w');
+          });
+        }
+      });
+    }, { threshold: 0.3 });
+    document.querySelectorAll('.metric-card').forEach(el => barObserver.observe(el));
+  </script>
+</body>
+</html>
