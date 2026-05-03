@@ -227,12 +227,16 @@ def app_brand_title():
 #  PAGES
 # ===================================================================
 def start_page():
-    """Render the full landing page inside Streamlit using components.html."""
-    import streamlit.components.v1 as components
-    from app.landing_component import get_landing_html
+    """Render the landing page natively inside Streamlit — no iframe."""
+    from app.landing_component import get_landing_css, get_landing_sections
 
-    landing_html = get_landing_html()
-    components.html(landing_html, height=4800, scrolling=True)
+    # Inject scoped CSS
+    st.markdown(get_landing_css(), unsafe_allow_html=True)
+
+    # Render each section natively
+    for section_html in get_landing_sections():
+        st.markdown(section_html, unsafe_allow_html=True)
+        st.markdown("<hr class='landing-divider'>", unsafe_allow_html=True)
 
 
 
