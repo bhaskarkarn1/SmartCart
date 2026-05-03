@@ -233,10 +233,42 @@ def start_page():
     # Inject scoped CSS
     st.markdown(get_landing_css(), unsafe_allow_html=True)
 
-    # Render each section natively
-    for section_html in get_landing_sections():
+    # Render each section natively (skip team — rendered with st.image below)
+    sections = get_landing_sections()
+    for section_html in sections[:-1]:  # all except team
         st.markdown(section_html, unsafe_allow_html=True)
         st.markdown("<hr class='landing-divider'>", unsafe_allow_html=True)
+
+    # Team section — use st.image for photos (st.markdown strips <img>)
+    st.markdown(
+        '<div class="landing-sh">'
+        '<div class="landing-tag">👥 Team</div>'
+        '<h2 class="landing-h2">Meet <span class="landing-gradient">Team JaiMataDi</span></h2>'
+        '<p class="landing-desc">The builders behind SmartCart.</p>'
+        '</div>',
+        unsafe_allow_html=True,
+    )
+    team_data = [
+        ("assets/team/bhaskar.jpg", "Bhaskar Ranjan Karn", "https://linkedin.com/in/bhaskar-ranjan-karn/"),
+        ("assets/team/astitva.jpg", "Astitva", "https://linkedin.com/in/astitva-07a338229/"),
+        ("assets/team/sanjay.jpg", "Sanjay Kumar", "https://linkedin.com/in/sanjay-kumar-39b73a239/"),
+    ]
+    cols = st.columns(3)
+    for col, (photo, name, url) in zip(cols, team_data):
+        with col:
+            st.markdown(
+                f'<div class="landing-tmcard" style="padding-bottom:20px;">',
+                unsafe_allow_html=True,
+            )
+            st.image(photo, width=120)
+            st.markdown(
+                f'<h4 style="text-align:center;font-weight:700;font-size:16px;margin:8px 0 10px;color:#1A1523;">{name}</h4>'
+                f'<div style="text-align:center;">'
+                f'<a href="{url}" target="_blank" class="landing-tmlink">🔗 LinkedIn</a>'
+                f'</div></div>',
+                unsafe_allow_html=True,
+            )
+
 
 
 
