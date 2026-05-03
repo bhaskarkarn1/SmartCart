@@ -227,48 +227,13 @@ def app_brand_title():
 #  PAGES
 # ===================================================================
 def start_page():
-    app_brand_title()
-    st.markdown("<h2 class='page-h2'>Welcome</h2>", unsafe_allow_html=True)
-    st.markdown(
-        "<p style='text-align:center; color:#8b8fa3; font-size:16px; margin-top:-8px;'>"
-        "Select up to <b>3 menu items</b> and get <b>top-3 personalized recommendations</b>"
-        "</p>",
-        unsafe_allow_html=True,
-    )
+    """Render the full landing page inside Streamlit using components.html."""
+    import streamlit.components.v1 as components
+    from app.landing_component import get_landing_html
 
-    st.write("")  # spacer
+    landing_html = get_landing_html()
+    components.html(landing_html, height=4800, scrolling=True)
 
-    # Show stats without loading the massive order_data.csv
-    order_csv = os.path.join(DATA_DIR, "order_data.csv")
-    order_count = "1,414,410" if os.path.exists(order_csv) else "—"
-
-    c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Orders", order_count)
-    c2.metric("Customers", "563,346")
-    c3.metric("Items", "138")
-    c4.metric("Test Rows", "1,000")
-
-    # Check readiness
-    art = load_artifact("artifacts.pkl")
-    if art is not None:
-        st.success("✅ Model artifacts loaded. Head to **🛒 Menu & Recommendations** to get suggestions!")
-    elif not os.path.exists(order_csv):
-        st.info("👉 Go to **🧱 Build Model (First Run)** to download data and build the model.")
-    else:
-        st.info("👉 Go to **🧱 Build Model (First Run)** to build the recommendation engine.")
-
-    st.write("")  # spacer
-    st.markdown(
-        """
-        <div class="quick-steps">
-          <h3>🧭 Quick Steps</h3>
-          <ol>
-            <li><b>Build Model</b> → <b>Menu & Recommendations</b> → (Optional) <b>Batch Predict</b></li>
-          </ol>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
 
 
 def build_model_page():
