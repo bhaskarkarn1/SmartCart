@@ -45,7 +45,7 @@ sidebar_toggle_html = """
     position: fixed;
     top: 60px;
     left: 15px;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(91, 76, 219, 0.9);
     color: white;
     border: none;
     border-radius: 6px;
@@ -132,7 +132,7 @@ st.markdown(
     '<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">'
     '<link rel="preconnect" href="https://fonts.googleapis.com">'
     '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
-    '<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">',
+    '<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">',
     unsafe_allow_html=True,
 )
 
