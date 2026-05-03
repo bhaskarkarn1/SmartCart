@@ -248,23 +248,19 @@ def start_page():
         '</div>',
         unsafe_allow_html=True,
     )
-    # CSS to make st.image circular and centered in the team columns
+    # CSS to style team images and center content
     st.markdown("""
     <style>
-    .team-col [data-testid="stImage"] {
-        display: flex; justify-content: center;
+    /* Make all team column images circular and centered */
+    [data-testid="stHorizontalBlock"] [data-testid="stImage"] {
+        display: flex !important; justify-content: center !important;
     }
-    .team-col [data-testid="stImage"] img {
+    [data-testid="stHorizontalBlock"] [data-testid="stImage"] img {
         width: 110px !important; height: 110px !important;
         border-radius: 50% !important; object-fit: cover !important;
-        border: 3px solid #F3EDE4 !important;
-        box-shadow: 0 4px 16px rgba(26,21,35,0.08) !important;
+        border: 3px solid #E8E0D5 !important;
+        box-shadow: 0 4px 16px rgba(26,21,35,0.1) !important;
     }
-    .team-name {
-        text-align: center; font-weight: 700; font-size: 16px;
-        color: #1A1523; margin: 10px 0 8px; letter-spacing: -0.01em;
-    }
-    .team-link-wrap { text-align: center; }
     </style>
     """, unsafe_allow_html=True)
 
@@ -276,15 +272,13 @@ def start_page():
     cols = st.columns(3)
     for col, (photo, name, url) in zip(cols, team_data):
         with col:
-            st.markdown('<div class="team-col">', unsafe_allow_html=True)
             st.image(photo)
             st.markdown(
-                f'<p class="team-name">{name}</p>'
-                f'<div class="team-link-wrap">'
-                f'<a href="{url}" target="_blank" class="landing-tmlink">🔗 LinkedIn</a>'
-                f'</div></div>',
+                f'<p style="text-align:center;font-weight:700;font-size:16px;'
+                f'color:#1A1523;margin:10px 0 8px;letter-spacing:-0.01em;">{name}</p>',
                 unsafe_allow_html=True,
             )
+            st.link_button("🔗 LinkedIn", url, use_container_width=True)
 
 
 
